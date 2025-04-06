@@ -1,4 +1,4 @@
-# txt
+河北地方台-#genre#
 邯郸新闻综合,http://hbhyjq.ufyct.com:1088/hls/87/index.m3u8
 邯郸公共,http://hbhyjq.ufyct.com:1088/hls/88/index.m3u8
 邯郸科教,http://hbhyjq.ufyct.com:1088/hls/89/index.m3u8
