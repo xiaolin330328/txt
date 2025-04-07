@@ -1,5 +1,7 @@
 河北卫视,http://hbhyjq.ufyct.com:1088/hls/119/index.m3u8
 河北生活,http://hbhyjq.ufyct.com:1088/hls/120/index.m3u8
+河北卫视,http://hbhyjq.ufyct.com:1088/hls/144/index.m3u8
+河北生活,http://hbhyjq.ufyct.com:1088/hls/145/index.m3u8
 河北农民,http://hbhyjq.ufyct.com:1088/hls/113/index.m3u8
 河北都市,http://hbhyjq.ufyct.com:1088/hls/14/index.m3u8
 河北影视,http://hbhyjq.ufyct.com:1088/hls/115/index.m3u8
