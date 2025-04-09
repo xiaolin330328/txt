@@ -16,7 +16,6 @@ CCTV13新闻,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8
 CCTV8电视剧,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
 CCTV5,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
 CCTV3综艺,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8
-CCTV2财经,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
 CCTV1综合,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8
 
 CCTV15音乐,http://42.48.105.224:9002/tsfile/live/0015_1.m3u8
