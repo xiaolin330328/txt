@@ -215,13 +215,11 @@ TVBS新闻,http://ali.hlspull.yximgs.com/live/6815412b7f353a40ac8594da9341fda1.f
 寰宇新闻台湾,http://ali.hlspull.yximgs.com/live/041d4d6f89debe1517365d2db15aed0d.flv
 靖天电影,http://ali.hlspull.yximgs.com/live/b3ac33b415b696cc7f5473ec593d3b4a.flv
 靖天欢乐,http://ali.hlspull.yximgs.com/live/624d28b0862af1b2261cda0f06fd56e4.flv
-靖天卡通,http://ali.hlspull.yximgs.com/live/54dab79ad766201085cdf1b83a92bc7c.flv
 靖天日本,http://ali.hlspull.yximgs.com/live/c92ffe0d046e84843170858c569abb96.flv
 靖天戏剧,http://ali.hlspull.yximgs.com/live/ae6316fc1096577ca05e2efa171a48d9.flv
 靖天映画,http://ali.hlspull.yximgs.com/live/7e400c107387aa1452222a0cfeef08c8.flv
 靖天娱乐,http://ali.hlspull.yximgs.com/live/d5c85a9ad32419a37e7649617012fd79.flv
 靖天综合,http://ali.hlspull.yximgs.com/live/aee3d65629de560d4d85fb100ba9bca9.flv
-靖洋卡通,http://ali.hlspull.yximgs.com/live/ae2633d5e758fe4d337b5523049c07d2.flv
 靖洋戏剧,http://ali.hlspull.yximgs.com/live/c4715d76d428e11b3e96dd9a40d16266.flv
 龙华电影,http://ali.hlspull.yximgs.com/live/6cb0532e970b70203a90f56e0b223950.flv
 龙华经典,http://ali.hlspull.yximgs.com/live/35a5c31a385f0a4453520b5e27603c9d.flv
@@ -257,7 +255,6 @@ TVBS新闻,http://ali.hlspull.yximgs.com/live/6815412b7f353a40ac8594da9341fda1.f
 中视经典,http://ali.hlspull.yximgs.com/live/b4ae84c03e757134660b6ae6f06a518e.flv
 中视新闻,http://ali.hlspull.yximgs.com/live/2fac2c4260e2b749b41021e3365e2bf2.flv
 中天新闻,http://ali.hlspull.yximgs.com/live/1913f431f1cd919e78f5bd4753d90791.flv
-中天新闻,http://ali.hlspull.yximgs.com/live/438d498b2eee54a9366bf5b063d5eb34.flv
 STARSPORTS,http://121.37.185.74:28180/TV00000000000000000041@HHZT
 Bloomberg,http://121.37.185.74:28180/TV00000000000000000046@HHZT
 BHOMercy,http://121.37.185.74:28180/TV00000000000000000047@HHZT
