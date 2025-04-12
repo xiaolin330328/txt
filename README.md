@@ -1,3 +1,5 @@
+http://nas.jc-hqp.cn.9999/rtp/233.50.201.161:5140
+http://play-sh.quklive.com/live/1683366786327093.m3u8
 浙江卫视,http://113.64.146.2:2024/hls/91/index.m3u8
 浙江卫视,http://113.64.146.2:2024/hls/92/index.m3u8
 浙江卫视,http://113.64.146.2:2024/hls/93/index.m3u8
