@@ -1,4 +1,4 @@
-潇湘电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
+
 CCTV1-综合,http://139.213.179.177:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://139.213.179.177:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3-综艺,http://139.213.179.177:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -42,7 +42,7 @@ CCTV17,http://139.213.179.177:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-
+潇湘电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
 湖南教育,http://183.215.134.239:19901/tsfile/live/1005_1.m3u8
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8
 南县新闻,http://183.215.134.239:19901/tsfile/live/1004_1.m3u8
