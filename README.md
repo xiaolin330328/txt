@@ -548,7 +548,6 @@ CCTV17,http://hbhyjq.ufyct.com:1088/hls/24/index.m3u8
 卫视,http://hbhyjq.ufyct.com:1088/hls/106/index.m3u8
 活,http://hbhyjq.ufyct.com:1088/hls/107/index.m3u8
 河北杂技,http://hbhyjq.ufyct.com:1088/hls/108/index.m3u8
-市,http://hbhyjq.ufyct.com:1088/hls/109/index.m3u8
 体育频道,http://hbhyjq.ufyct.com:1088/hls/110/index.m3u8
 少儿频道,http://hbhyjq.ufyct.com:1088/hls/121/index.m3u8
 
