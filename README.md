@@ -635,7 +635,6 @@ CCTV13新闻,http://58.19.38.162:9901/tsfile/live/0013_1.m3u8
 CCTV12社会与法,http://58.19.38.162:9901/tsfile/live/0012_1.m3u8
 CCTV11戏曲,http://58.19.38.162:9901/tsfile/live/0011_1.m3u8
 CCTV10科教,http://58.19.38.162:9901/tsfile/live/0010_1.m3u8
-CCTV9纪录,http://58.19.38.162:9901/tsfile/live/0009_1.m3u8
 CCTV7国防军事，http://58.19.38.162:9901/tsfile/live/1001_1.m3u8
 CCTV4中文国际,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8
 CCTV2财经,http://58.19.38.162:9901/tsfile/live/0002_1.m3u8
