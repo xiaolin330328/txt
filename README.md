@@ -241,11 +241,6 @@ CHC高清电影,http://113.64.146.32:2024/hls/9/index.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 金华电视,http://nas.jc-hqp.cn.9999/rtp/233.50.201.161:5140
 永嘉县电视,http://play-sh.quklive.com/live/1683366786327093.m3u8
-
-
-凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
-凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
-凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
