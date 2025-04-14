@@ -216,7 +216,6 @@ CCTV13新闻,http://113.64.146.32:2024/hls/31/index.m3u8
 CCTV12社会与法,http://113.64.146.32:2024/hls/30/index.m3u8
 CCTV11戏曲,http://113.64.146.32:2024/hls/29/index.m3u8
 CCTV10科教,http://113.64.146.32:2024/hls/28/index.m3u8
-CCTV9纪录,http://113.64.146.32:2024/hls/26/index.m3u8
 CCTV8电视剧,http://113.64.146.32:2024/hls/25/index.m3u8
 CCTV7国防军事,http://113.64.146.32:2024/hls/24/index.m3u8
 CCTV6电影,http://113.64.146.32:2024/hls/23/index.m3u8
