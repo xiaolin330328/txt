@@ -83,7 +83,7 @@ CHC动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 家庭剧场,http://itv.iptv1688.top:2016/itv.php?id=家庭剧场
 武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
-TaiwanPlus,http://211.75.171.121:8531/http/61.67.128.137:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+TaiwanPlus,http/61.67.128.137:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 Tvbs新聞台,http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
 Tvbs綜合台,http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
 Tvbs歡樂台,http://211.75.171.121:8527/http/61.67.128.137:8081/hls/65/807/ch017.m3u8
