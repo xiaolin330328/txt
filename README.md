@@ -115,7 +115,6 @@ CCTV13新闻,http://42.48.105.224:9002/tsfile/live/0013_1.m3u8
 CCTV12社会与法,http://42.48.105.224:9002/tsfile/live/0012_1.m3u8
 CCTV11戏曲,http://42.48.105.224:9002/tsfile/live/0011_1.m3u8
 CCTV10科教,http://42.48.105.224:9002/tsfile/live/0010_1.m3u8
-CCTV9纪录，http://42.48.105.224:9002/tsfile/live/0009_1.m3u8
 CCTV8电视剧，http://42.48.105.224:9002/tsfile/live/0008_1.m3u8
 CCTV7军农,http://42.48.105.224:9002/tsfile/live/0007_1.m3u8
 CCTV6电影,http://42.48.105.224:9002/tsfile/live/0006_1.m3u8
