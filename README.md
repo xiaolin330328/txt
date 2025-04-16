@@ -63,7 +63,6 @@ CHC动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 北京卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
 哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
-优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
 黑莓电影,http://itv.iptv1688.top:2016/itv.php?id=黑莓电影
 黑莓动画,http://itv.iptv1688.top:2016/itv.php?id=黑莓动画
 超级电影,http://itv.iptv1688.top:2016/itv.php?id=超级电影
