@@ -36,6 +36,8 @@
 卫视|新疆卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887448.m3u8
 卫视|三沙卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887452.m3u8
 卫视|兵团卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887456.m3u8
+
+柬埔寨,#genre#
 CCTV1,http://103.121.188.31:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 中央电视台2套节目,http://103.121.188.31:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3频道,http://103.121.188.31:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
