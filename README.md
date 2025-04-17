@@ -39,15 +39,17 @@ BTV_KAKU,http://103.121.188.31:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=
 安多卫视,http://103.121.188.31:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://103.121.188.31:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://103.121.188.31:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN A,http://103.121.188.31:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN R,http://103.121.188.31:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN E,http://103.121.188.31:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN F,http://103.121.188.31:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-Ahlebait TV,http://103.121.188.31:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-TV5,http://103.121.188.31:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-CNAI高清,http://103.121.188.31:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-体育频道,http://103.121.188.31:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-央视9,http://103.121.188.31:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+鍖椾含IPTV 4K瓒呮竻,http://150.138.77.132:10037/鍖椾含鍗.php
+鍖椾含IPTV 4K瓒呮竻,http://116.237.76.135:4022/rtp/233.18.204.209:5140
+鍖椾含IPTV 4K瓒呮竻,http://180.165.15.75:7088/rtp/233.18.204.209:5140
+鍖椾含IPTV 4K瓒呮竻,http://223.156.150.215:4022/rtp/239.76.253.214:9000
+CCTV-4k,http://xsbc.3sbio.com:35455/gaoma/cctv4k.m3u8
+CCTV-8k楂樼爜,http://xsbc.3sbio.com:35455/gaoma/cctv8k_36m.m3u8
+4K瓒呴珮娓�,http://t:8088/udp/239.93.1.156:5140
+4K涔愪韩瓒�,http://171.213.198.17:8088/udp/239.93.0.43:5140
+CCTV4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
+CCTV16 4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k16.m3u8
+
 CCTV1-综合,http://116.167.125.200:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://116.167.125.200:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV 3,http://116.167.125.200:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
