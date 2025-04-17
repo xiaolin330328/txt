@@ -38,16 +38,16 @@ BTV_KAKU,http://103.121.188.31:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=
 内蒙古,http://103.121.188.31:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 安多卫视,http://103.121.188.31:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://103.121.188.31:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳电视台,http://103.121.188.31:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN A,http://103.121.188.31:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN R,http://103.121.188.31:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN E,http://103.121.188.31:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN F,http://103.121.188.31:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-Ahlebait TV,http://103.121.188.31:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-TV5,http://103.121.188.31:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-CNAI高清,http://103.121.188.31:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-体育频道,http://103.121.188.31:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-央视9,http://103.121.188.31:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://103.121.188.31:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN A,http://103.121.188.31:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN R,http://103.121.188.31:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN E,http://103.121.188.31:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN F,http://103.121.188.31:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+Ahlebait TV,http://103.121.188.31:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+TV5,http://103.121.188.31:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+CNAI高清,http://103.121.188.31:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+体育频道,http://103.121.188.31:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+央视9,http://103.121.188.31:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://116.167.125.200:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://116.167.125.200:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV 3,http://116.167.125.200:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
