@@ -148,7 +148,6 @@ CCTV-5+,http://107.174.52.32/itv.php?id=CCTV5p
 CCTV-6,http://107.174.52.32/itv.php?id=CCTV6
 CCTV-7,http://107.174.52.32/itv.php?id=CCTV7
 CCTV-8,http://107.174.52.32/itv.php?id=CCTVR8
-CCTV-9,http://107.174.52.32/itv.php?id=CCTV9
 CCTV-10,http://107.174.52.32/itv.php?id=CCTV10
 CCTV-11,http://107.174.52.32/itv.php?id=CCTV11
 CCTV-12,http://107.174.52.32/itv.php?id=CCTV12
