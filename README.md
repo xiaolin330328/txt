@@ -21,7 +21,6 @@ http://110.53.52.63:8888--列表,#genre#
 CCTV5+,http://110.53.52.63:8888/newlive/live/hls/7/live.m3u8
 CCTV15,http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8
 CCTV7,http://110.53.52.63:8888/newlive/live/hls/9/live.m3u8
-CCTV9,http://110.53.52.63:8888/newlive/live/hls/11/live.m3u8
 中央电视台二套,http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
 CCTV3,http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8
 CCTV4,http://110.53.52.63:8888/newlive/live/hls/5/live.m3u8
