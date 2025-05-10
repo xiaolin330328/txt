@@ -35,7 +35,6 @@ CCTV13,http://114.104.171.233:20080/hls/50/index.m3u8
 CCTV12高清,http://114.104.171.233:20080/hls/12/index.m3u8
 CCTV11,http://114.104.171.233:20080/hls/49/index.m3u8
 CCTV10高清,http://114.104.171.233:20080/hls/11/index.m3u8
-CCTV9高清,http://114.104.171.233:20080/hls/10/index.m3u8
 CCTV8高清,http://114.104.171.233:20080/hls/9/index.m3u8
 CCTV7高清,http://114.104.171.233:20080/hls/8/index.m3u8
 CCTV6高清,http://114.104.171.233:20080/hls/7/index.m3u8
