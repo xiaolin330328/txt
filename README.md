@@ -1,3 +1,25 @@
+【广东】梅州移动酒店源
+五华综合高清,http://120.238.94.82:9901/tsfile/live/1000_1.m3u8
+丰顺综合高清,http://120.238.94.82:9901/tsfile/live/1025_1.m3u8
+梅州综合高清,http://120.238.94.82:9901/tsfile/live/1002_1.m3u8
+梅州客家生活高清,http://120.238.94.82:9901/tsfile/live/1003_1.m3u8
+梅州导视,http://120.238.94.82:9901/tsfile/live/1047_1.m3u8
+广东G导视,http://120.238.94.82:9901/tsfile/live/1048_1.m3u8
+TVB 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
+TVB 明珠台,http://120.238.94.82:9901/tsfile/live/1008_1.m3u8
+TVB 星河,http://120.238.94.82:9901/tsfile/live/1005_1.m3u8
+五华综合高清,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
+丰顺综合高清,http://120.238.94.82:9901/tsfile/live/1035_1.m3u8
+梅州综合高清,http://120.238.94.82:9901/tsfile/live/1032_1.m3u8
+梅州客家生活高清,http://120.238.94.82:9901/tsfile/live/1033_1.m3u8
+梅州导视,http://120.238.94.82:9901/tsfile/live/1034_1.m3u8
+广东G导视,http://120.238.94.82:9901/tsfile/live/1036_1.m3u8
+TVB 翡翠台,http://120.238.94.82:9901/tsfile/live/1037_1.m3u8
+TVB 明珠台,http://120.238.94.82:9901/tsfile/live/1038_1.m3u8
+TVB 星河,http://120.238.94.82:9901/tsfile/live/1039_1.m3u8
+
+有效期：41天
+有效期：41天
 贵州卫视,http://123.138.22.30:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://118.122.189.74:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://118.122.189.74:9901/tsfile/live/0108_1.m3u8
