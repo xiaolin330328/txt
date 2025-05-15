@@ -1,3 +1,30 @@
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+POPC,http://j.s.bkpcp.top/js/popc
+TVB星河频道,http://j.s.bkpcp.top/js/tvbxhpd
+TVB星河频道国语,http://j.s.bkpcp.top/js/tvbxhpdgy
+天映频道 [SG],http://j.s.bkpcp.top/js/celestialmoviessg
+天映频道,http://j.s.bkpcp.top/js/celestialmovies
+黄金翡翠台,http://j.s.bkpcp.top/js/hjfct
+Now新闻台,http://j.s.bkpcp.top/js/nowxwt
+美亚电影台(粤语),http://j.s.bkpcp.top/js/mydytyy
+美亚电影台(国语),http://j.s.bkpcp.top/js/mydytgy
+翡翠台,http://j.s.bkpcp.top/js/fct
+娱家台,http://j.s.bkpcp.top/js/yjt
+都会台,http://j.s.bkpcp.top/js/dht
+TVB功夫台(粤),http://j.s.bkpcp.top/js/tvbgfty
+TVB功夫台(国),http://j.s.bkpcp.top/js/tvbgftg
+美亚电影1,http://j.s.bkpcp.top/js/enmydy
+美亚电影2,http://j.s.bkpcp.top/js/cnmydy
+美亚电影3,http://j.s.bkpcp.top/js/twmydy
+美亚电影4,http://j.s.bkpcp.top/js/wwmydy
+星空卫视,http://j.s.bkpcp.top/js/xkws
+戲曲台,http://j.s.bkpcp.top/js/xqt
+粵語片台,http://j.s.bkpcp.top/js/yypt
+緯來體育,http://j.s.bkpcp.top/js/wlty
+CM+,http://j.s.bkpcp.top/js/cmp
 【广东】梅州移动酒店源
 五华综合高清,http://120.238.94.82:9901/tsfile/live/1000_1.m3u8
 丰顺综合高清,http://120.238.94.82:9901/tsfile/live/1025_1.m3u8
