@@ -1,3 +1,12 @@
+TVB生活,https://ali.hlspull.yximgs.com/live/4e0db6495e07a5e4c8a75acbe19e7816.flv
+TVB功夫,https://ali.hlspull.yximgs.com/live/6060b3873108281b88e2dfa20a166e16.flv
+Now爆谷,https://ali.hlspull.yximgs.com/live/a4e6a5335e7f8e132d3e0da6e2b8efcc.flv
+Now星影,https://ali.hlspull.yximgs.com/live/8543e959a3c89ea4aca8e5e386fbb6c0.flv
+Now华剧,https://ali.hlspull.yximgs.com/live/70295be8e42d91150c87e1c52df1a647.flv
+Now紫金,https://ali.hlspull.yximgs.com/live/e1f142d73f75933cc217df602ad5fc7d.flv
+CM+,https://ali.hlspull.yximgs.com/live/eccee6247ce7719ed2524edd6913ae37.flv
+佳乐台,https://ali.hlspull.yximgs.com/live/4cf7b778314c08f1112ebccb128b46ea.flv
+E乐台,https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
@@ -25,28 +34,7 @@ TVB功夫台(国),http://j.s.bkpcp.top/js/tvbgftg
 粵語片台,http://j.s.bkpcp.top/js/yypt
 緯來體育,http://j.s.bkpcp.top/js/wlty
 CM+,http://j.s.bkpcp.top/js/cmp
-【广东】梅州移动酒店源
-五华综合高清,http://120.238.94.82:9901/tsfile/live/1000_1.m3u8
-丰顺综合高清,http://120.238.94.82:9901/tsfile/live/1025_1.m3u8
-梅州综合高清,http://120.238.94.82:9901/tsfile/live/1002_1.m3u8
-梅州客家生活高清,http://120.238.94.82:9901/tsfile/live/1003_1.m3u8
-梅州导视,http://120.238.94.82:9901/tsfile/live/1047_1.m3u8
-广东G导视,http://120.238.94.82:9901/tsfile/live/1048_1.m3u8
-TVB 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
-TVB 明珠台,http://120.238.94.82:9901/tsfile/live/1008_1.m3u8
-TVB 星河,http://120.238.94.82:9901/tsfile/live/1005_1.m3u8
-五华综合高清,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
-丰顺综合高清,http://120.238.94.82:9901/tsfile/live/1035_1.m3u8
-梅州综合高清,http://120.238.94.82:9901/tsfile/live/1032_1.m3u8
-梅州客家生活高清,http://120.238.94.82:9901/tsfile/live/1033_1.m3u8
-梅州导视,http://120.238.94.82:9901/tsfile/live/1034_1.m3u8
-广东G导视,http://120.238.94.82:9901/tsfile/live/1036_1.m3u8
-TVB 翡翠台,http://120.238.94.82:9901/tsfile/live/1037_1.m3u8
-TVB 明珠台,http://120.238.94.82:9901/tsfile/live/1038_1.m3u8
-TVB 星河,http://120.238.94.82:9901/tsfile/live/1039_1.m3u8
 
-有效期：41天
-有效期：41天
 贵州卫视,http://123.138.22.30:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://118.122.189.74:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://118.122.189.74:9901/tsfile/live/0108_1.m3u8
