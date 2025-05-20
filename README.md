@@ -37,7 +37,6 @@ CCTV5-体育HD,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&pl
 CCTV6-电影HD,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7-军农,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://223.241.247.214:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录HD,http://223.241.247.214:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教HD,http://223.241.247.214:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法HD,http://223.241.247.214:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
