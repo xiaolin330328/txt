@@ -1,3 +1,20 @@
+【河北】河北移动魔百盒
+唐山新闻综合高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSXWZH-HD/index.m3u8
+唐山生活服务高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSSHFW-HD/index.m3u8
+唐山影视高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSYSHD/index.m3u8
+唐山公共高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSGG-HD/index.m3u8
+河北三农,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBNM-HD/index.m3u8
+河北都市,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBDS-HD/index.m3u8
+河北少儿科教,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBSEKJ-HD/index.m3u8
+河北经济生活,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBJJ-HD/index.m3u8
+河北影视剧,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBYS-HD/index.m3u8
+河北文旅公共,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBGG-HD/index.m3u8
+河北三佳购物,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-SJGW-SD/index.m3u8
+河北收视指南高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBSSZN-HD/index.m3u8
+河北杂技高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HEBZJ-HD/index.m3u8
+重温经典高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CWJD-HD/index.m3u8
+
+有效期:  111天
 湖南卫视--列表,#genre#
 http://42.48.18.84:9002/tsfile/live--列表,#genre#
 四川卫视,http://42.48.18.84:9002/tsfile/live/0123_1.m3u8
