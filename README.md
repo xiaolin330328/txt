@@ -1,4 +1,11 @@
-四川科技http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/1008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+四川科技,http://183.223.157.33:85/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 【河北】河北移动魔百盒
 唐山新闻综合高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSXWZH-HD/index.m3u8
 唐山生活服务高清,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSSHFW-HD/index.m3u8
