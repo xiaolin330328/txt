@@ -19,9 +19,9 @@ CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 明珠台,http://8.138.7.223/tv/gdmzyd.php?id=3
 云南卫视,http://8.138.7.223/tv/yntv.m3u8
-江苏卫视,http://8.138.7.223/tv/jstv.php?id=jsws
-江苏城市,http://8.138.7.223/tv/jstv.php?id=jscs
-江苏综艺,http://8.138.7.223/tv/jstv.php?id=jszy
+江苏卫视,http://8.138.7.223/tv/jsws.m3u8
+江苏城市,http://8.138.7.223/tv/hnws.m3u8
+江苏综艺,http://8.138.7.223/tv/tjws.m3u8
 江苏影视,http://8.138.7.223/tv/jstv.php?id=jsys
 江苏新闻,http://8.138.7.223/tv/jstv.php?id=jsxw
 江苏体育,http://8.138.7.223/tv/jstv.php?id=jsty
