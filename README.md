@@ -36,8 +36,6 @@ CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 东南卫视,http://8.138.7.223/tv/fjtv.php?id=5$官方源
 福建少儿,http://8.138.7.223/tv/fjtv.php?id=2$官方源
 福建综合,http://8.138.7.223/tv/fjtv.php?id=4$官方源
-福建文体,http://8.138.7.223/tv/fjtv.php?id=10$官方源
-福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7$官方源
 四川科技,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 四川科技,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 四川科技,http://183.223.157.33:85/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
