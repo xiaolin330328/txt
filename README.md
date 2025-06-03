@@ -51,6 +51,8 @@ TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b2861a&tk=922ba46651d3
 张晓英一小段幽默戏剧小品wmv,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bafdef&tk=922ba46651d3
 
 浙江--列表,#genre#
+浙江卫视,http://42.48.17.189:9002/tsfile/live/0124_2.m3u8
+浙江卫视,http://58.17.48.228:808/hls/32/index.m3u8
 浙江卫视,http://175.22.226.131:888/hls/37/index.m3u8
 浙江卫视,http://49.66.26.156:8001/rtp/239.49.1.34:6000
 浙江卫视,http://171.116.12.62:8082/rtp/226.0.2.36:8200
