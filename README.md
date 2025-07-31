@@ -1,7 +1,61 @@
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
+凤凰--列表,#genre#
+TVB星河,https://stream.iptv-search.com/main.php?id=TVB%E6%98%9F%E6%B2%B3&t=1753977057&token=d8d8c0924a9f2cfb93d007d555172f5f
+TVB星河(无字幕),https://stream.iptv-search.com/main.php?id=TVB%E6%98%9F%E6%B2%B3%28%E6%97%A0%E5%AD%97%E5%B9%95%29&t=1753977057&token=15775bd5fd62cd18cb7ad8d4a84e71ff
+TVB星河(英文字幕),https://stream.iptv-search.com/main.php?id=TVB%E6%98%9F%E6%B2%B3%28%E8%8B%B1%E6%96%87%E5%AD%97%E5%B9%95%29&t=1753977057&token=ab6bfc3deb54deb56ff01d4fc911ec7f
+TVB翡翠台,https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1753977057&token=019b3f4803fd252aa2ead7983d1e195d
+TVB翡翠台4K,https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B04K&t=1753977057&token=8b070761083e0e81d76f6d56a1f6aa21
+翡翠台北美版(TVB J1),https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1753977057&token=7f9fc2e648109178f9b423c6c671ea42
+TVB Entertainment,https://stream.iptv-search.com/main.php?id=TVB+Entertainment&t=1753977057&token=17f4f33a4df23e0fad0010fba40c9d07
+TVB J1,https://stream.iptv-search.com/main.php?id=TVB+J1&t=1753977057&token=405f40280b6cd9e98bf0aca5850341b4
+TVB Jade,https://stream.iptv-search.com/main.php?id=TVB+Jade&t=1753977057&token=59b9d2d8ff4f9f46aa9c5535b32b2746
+TVB PLUS,https://stream.iptv-search.com/main.php?id=TVB+PLUS&t=1753977057&token=bc7bd73c4ac466ea47abc26ed66eb7ac
+TVB Plus,https://stream.iptv-search.com/main.php?id=TVB+Plus&t=1753977057&token=dea831adb2ab5aea7c76a5f1f0bfa490
+TVBS,https://stream.iptv-search.com/main.php?id=TVBS&t=1753977057&token=5fd64670a251ae2c9c2a4a3f03b9e396
+TVBS Asia (1080p),https://stream.iptv-search.com/main.php?id=TVBS+Asia+%281080p%29&t=1753977057&token=d6d00d3b5b35829a1c950c164b3745ce
+TVBS HD,https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1753977057&token=2ab4cbf33963f3ae0e55c546b0e4720f
+TVBS News,https://stream.iptv-search.com/main.php?id=TVBS+News&t=1753977057&token=ca46628cbd309bd4d720e8f10dd462d5
+TVBS亚洲,https://stream.iptv-search.com/main.php?id=TVBS%E4%BA%9A%E6%B4%B2&t=1753977057&token=ee5bab212ea5d68275cdc712cd4e45d9
+TVBS欢乐,https://stream.iptv-search.com/main.php?id=TVBS%E6%AC%A2%E4%B9%90&t=1753977057&token=06956f9d9b91c97a374d419a623b026f
+TVBS 欢乐台,https://stream.iptv-search.com/main.php?id=TVBS+%E6%AC%A2%E4%B9%90%E5%8F%B0&t=1753977057&token=262ce9a1c4b87ae8b97ce7d2407d5fd4
+TVBS 欢乐台 （备份）,https://stream.iptv-search.com/main.php?id=TVBS+%E6%AC%A2%E4%B9%90%E5%8F%B0+%EF%BC%88%E5%A4%87%E4%BB%BD%EF%BC%89&t=1753977057&token=f6578e735fc5c195b0c3daaf1f5a4c7f
+Tvbs歡樂,https://stream.iptv-search.com/main.php?id=Tvbs%E6%AD%A1%E6%A8%82&t=1753977057&token=06da4c7d6681451cb852cd86e98e424d
+Tvbs綜合,https://stream.iptv-search.com/main.php?id=Tvbs%E7%B6%9C%E5%90%88&t=1753977057&token=adc266797903809a5bd8fe0530031237
+TVB娱乐新闻,https://stream.iptv-search.com/main.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&t=1753977057&token=e9296ff7d26cbbd6e66f25a8d7f8d6cb
+TVB娱乐新闻台,https://stream.iptv-search.com/main.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0&t=1753977057&token=471de8340b3cb4772b132277e2496cc6
+TVB无线新闻,https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1753977057&token=202863f7d4d6f897ed7b9f218e9a1c88
+TVB无线星河,https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3&t=1753977057&token=219ae49de993862d7998a122b749d0c4
+TVB明珠台,https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1753977057&token=b3387fed8392630ce40b0506f418e23f
+东森幼幼,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&t=1753977057&token=d7b8cffb31a8cc20937fecbf3dd57a45
+东森戏剧,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&t=1753977057&token=824b23ef241f62e976997343020a5ebf
+东森新闻,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1753977057&token=cb83e2b821f19b0f60f391144d0c8c88
+东森新闻美国,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E7%BE%8E%E5%9B%BD&t=1753977057&token=5a44f6518977614c5533aa86905fc597
+东森洋片,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1753977057&token=62031b529c6a7cf9e277dfce65f1a37d
+东森电影,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1753977057&token=e561cbcccb926c9107c45d369dd57ba7
+东森综合,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&t=1753977057&token=e10f402986bc2b93a976ddd2a71b835e
+东森财经新闻,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&t=1753977057&token=5166aae2d6f3b7020011d4c41903ce97
+东森超视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86&t=1753977057&token=f7afd1ec52b2dd9c2d67b98dc619a75d
+東森戲劇,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&t=1753977057&token=b1d4a704916528f7c88602f82f967ca7
+東森新聞,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&t=1753977057&token=0b63c0c8f8c36fadb4d87b8c2a158827
+東森綜合,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88&t=1753977057&token=2f6066cfa9e10998a52ffac617db6752
+東森超視,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96&t=1753977057&token=7d5bc3f6a80ad64cdd5843f5d524aa85
+龙华戏剧,http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+龙华电影,http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+龙华戏剧,http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+龙华偶像,http://198.16.100.186:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龙华戏剧,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&t=1753977057&token=db1fc714be3d322e82e2f210cc1c0bfc
+龙华电影,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&t=1753977057&token=8ba502bb74179ca8a03387c650412ac4
+龙华经典,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8&t=1753977057&token=67ae1e04b00c0c7c22ac4fe65a443086
+龙华经典台,https://stream.iptv-search.com/main.php?id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8%E5%8F%B0&t=1753977057&token=bdc1cc0a7abdde83f5a827a49104ca72
+凤凰中文,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1753977057&token=9a1c848a6bae7f13ce170483a4070ac1
+凤凰卫视,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86&t=1753977057&token=83bf650fa1c83fcaf07a0f89598073b8
+凤凰资讯,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1753977057&token=12f29bc8966f25f528a44670dc2842d9
+凤凰资讯HD,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AFHD&t=1753977057&token=723516a7ef3ad1789296c7fac592ab0b
+凤凰资讯高清,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1753977057&token=e2ef44f90e3614345743c0b66eda7aa3
+凤凰香港,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1753977057&token=3714fee54fa6caf047cb283e5466dbc2
+凤凰香港台,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&t=1753977057&token=1be990ee23c5931aac72c3dd1d242f54
 
 DreAMCatcher,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b0e078&tk=922ba46651d3
 TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4f7d53&tk=922ba46651d3
