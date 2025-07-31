@@ -1,4 +1,14 @@
 卫视--列表,#genre#
+纬来戏剧,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E6%88%B2%E5%8A%87&t=1753977057&token=7f0ff7336e8bcfe0ec2566995d9610f2
+纬来日本,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E6%97%A5%E6%9C%AC&t=1753977057&token=a3755d777e0ae4cc13cc6b960e93237f
+纬来综合,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88&t=1753977057&token=1c48606abb3e4b056070e33ff5e35a69
+纬来电影,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&t=1753977057&token=cc705c0cc6efc6fb573b57f04978ad1b
+纬来体育,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2&t=1753977057&token=cd574ba83330f2eeea4366ba7937a71d
+纬来体育台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0&t=1753977057&token=411cde5fa1e70ad9e062bc5c1e8df27a
+纬来日本台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0&t=1753977057&token=600b7049df34f6784ad2f81db5b58789
+纬来电影台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1753977057&token=d9648af1de308641eca855f9c3b8cee9
+纬来精彩,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&t=1753977057&token=6bd8dbc2298f607181d6d49e703366e5
+纬来综合台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88%E5%8F%B0&t=1753977057&token=fb9a4b3a683f1ea81272aff515d5817c
 东南卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1753977057&token=db8f2f83158f65e4b5bf5e65ad4c6f07
 东方卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1753977057&token=4724fb8910b2fe21c07ce98f2915e396
 兵团卫视,https://stream.iptv-search.com/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1753977057&token=8456e36e89292104a91f9938b98fbbfb
