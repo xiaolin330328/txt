@@ -1,5 +1,5 @@
-卫CHC家庭影院，http://39.77.255.37:4000/udp/239.253.254.152:8000
-CHC高清电影，http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+卫CHC家庭影院,http://39.77.255.37:4000/udp/239.253.254.152:8000
+CHC高清电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC动作电影,http://cz.crossec.com:35455/mgtv/644368714.m3u8
 CHC家庭影院,http://61.177.81.198:35455/mgtv/644368373.m3u8
 CHC动作电影,http://113.68.139.107:5000/mgtv/644368714.m3u8
