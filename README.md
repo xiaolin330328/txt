@@ -1,4 +1,15 @@
 我T1
+【宁夏】银川联通酒店源
+银川公共高清,http://42.63.195.119:8089/hls/23/index.m3u8
+宁夏教育高清,http://42.63.195.119:8089/hls/22/index.m3u8
+银川公共高清,http://42.63.195.119:8089/hls/25/index.m3u8
+宁夏教育高清,http://42.63.195.119:8089/hls/24/index.m3u8
+银川公共高清,http://42.63.195.119:8089/hls/33/index.m3u8
+宁夏教育高清,http://42.63.195.119:8089/hls/32/index.m3u8
+银川公共高清,http://42.63.195.119:8089/hls/35/index.m3u8
+宁夏教育高清,http://42.63.195.119:8089/hls/34/index.m3u8
+
+有效期: 1天
 
 CCTV风云足球,https://stream.iptv-search.com/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1753977057&token=2da286298cbd6be0bcb4c4dee3ac0576
 CCTV1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
