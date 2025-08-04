@@ -1,7 +1,7 @@
 我T1
 【宁夏】银川联通酒店源
-银川公共高清,http://42.63.195.119:8089/hls/23/index.m3u8
-宁夏教育高清,http://42.63.195.119:8089/hls/22/index.m3u8
+银川公共高清,http://42.63.195.119:8089/hls/26/index.m3u8
+宁夏教育高清,http://42.63.195.119:8089/hls/27/index.m3u8
 银川公共高清,http://42.63.195.119:8089/hls/25/index.m3u8
 宁夏教育高清,http://42.63.195.119:8089/hls/24/index.m3u8
 银川公共高清,http://42.63.195.119:8089/hls/33/index.m3u8
@@ -192,8 +192,6 @@ TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b2861a&tk=922ba46651d3
 西安戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f438ba&tk=922ba46651d3
 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4d0d65&tk=922ba46651d3
 亚洲卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=50e278&tk=922ba46651d
-.
-.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
