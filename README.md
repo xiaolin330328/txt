@@ -8,7 +8,10 @@
 宁夏教育高清,http://42.63.195.119:8089/hls/32/index.m3u8
 银川公共高清,http://42.63.195.119:8089/hls/35/index.m3u8
 宁夏教育高清,http://42.63.195.119:8089/hls/34/index.m3u8
-
+香蕉2,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘朵拉,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 有效期: 1天
 
 CCTV风云足球,https://stream.iptv-search.com/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1753977057&token=2da286298cbd6be0bcb4c4dee3ac0576
