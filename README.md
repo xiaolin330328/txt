@@ -11,6 +11,76 @@
 
 有效期: 1天
 
+juli
+ in 
+直播源等影视资源分享交流群
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+八度空间,http://cdn6.163189.xyz/163189/8tv
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+CHU,http://cdn6.163189.xyz/163189/chu
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+NOW新闻台,http://cdn.163189.xyz/163189/now
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+翡翠台(字幕),http://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+
 CCTV风云足球,https://stream.iptv-search.com/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1753977057&token=2da286298cbd6be0bcb4c4dee3ac0576
 CCTV1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
 CCTV2,https://stream.iptv-search.com/main.php?id=CCTV2&t=1753977057&token=8cbf58f098fc5d1e1d4255b0afa1cd9e
