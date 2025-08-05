@@ -277,7 +277,11 @@ TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b2861a&tk=922ba46651d3
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
 广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
-:19901/tsfile/live/1008_1.m3u8
+武汉电视剧,http://111.172.12.162:1111/tsfile/live/1030_1.m3u8
+武汉,http://113.57.109.36:9901/tsfile/live/1018_1.m3u8
+
+
+
 延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
 延边卫视,http://36.105.100.208:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 延边卫视,http://61.138.128.226:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
