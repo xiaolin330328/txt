@@ -2,7 +2,7 @@
 界限,http://pull.infojin.cyou:80/live/796fa37b3aeb524071d0a5148d9cbdd1.m3u8
 界限2,http://pull.infojin.cyou:80/live/3d98090ba38503ce22da53e04e7e7cbc.m3u8
 继续,http://pull.infojin.cyou:80/live/3b763cb18931253ede8deabe8f366ee2.m3u8
-
+玩,http://test.oxxxo.ggff.net/stream/universalcinema/playlist.m3u8
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
 CCTV13,http://117.114.153.18:8182/hls/TV00000000000000000003@HHZT.m3u8
