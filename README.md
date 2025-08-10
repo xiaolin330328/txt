@@ -1,8 +1,5 @@
 我T1
-界限,http://pull.infojin.cyou:80/live/796fa37b3aeb524071d0a5148d9cbdd1.m3u8
-界限2,http://pull.infojin.cyou:80/live/3d98090ba38503ce22da53e04e7e7cbc.m3u8
-继续,http://pull.infojin.cyou:80/live/3b763cb18931253ede8deabe8f366ee2.m3u8
-玩,http://test.oxxxo.ggff.net/stream/universalcinema/playlist.m3u8
+北京高级酒店源
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
 CCTV13,http://117.114.153.18:8182/hls/TV00000000000000000003@HHZT.m3u8
@@ -67,14 +64,13 @@ CCTV6,http://117.114.153.18:8182/hls/TV00000000000000000091@HHZT.m3u8
 影迷电影,http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
 北京财经,http://117.114.153.18:8182/hls/TV00000000000000000095@HHZT.m3u8
 CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
-彩虹,1http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/84.ts
+彩虹,1http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/81.ts
 称呼,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
 麻将,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
 还能,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
 难过,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
 故意,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
 菊,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/90.ts
-还要,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/91.ts
 彩虹1臺,http://live.urren.net/live/587258b034aa2241ae117d15322e2e22.flv
 彩虹2臺,http://live.urren.net/live/c13e28468dc33771ee40754edea77d60.flv
 彩虹3臺,http://live.urren.net/live/19cc4a3db20def19c83336544146361b.flv
@@ -86,9 +82,6 @@ CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 彩虹香蕉,http://live.urren.net/live/b7bd11b991681cf76d06b2dc461fbd49.flv
 HAPPY,http://live.urren.net/live/68df0a607d2d57fd67e558660fc349a1.flv
 彩虹極致,http://live.urren.net/live/8b762b3fd5a1138eccb8ad3cbef042d3.flv
-【广西】北海联通酒店源
-合浦综合,http://222.218.158.110:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-有效期: 1天
 【山东】烟台联通
 烟台新闻综合高清,http://123.130.148.116:8888/udp/239.253.248.254:8000
 烟台公共,http://123.130.148.116:8888/udp/239.253.248.252:8000
