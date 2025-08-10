@@ -1,4 +1,11 @@
 我T1
+湖北卫视,http://60.8.75.178:9002/hls/40/index.m3u8
+卫视,http://221.7.175.127:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+卫视,http://live.haomaishou.com/playlist/818.m3u8
+湖北卫视,http://60.8.75.178:9002/hls/41/index.m3u8
+卫视,http://221.7.175.127:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
+卫视,http://live.haomaishou.com/playlist/819.m3u8
+
 北京高级酒店源
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
