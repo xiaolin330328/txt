@@ -1,4 +1,6 @@
 我T1
+影音台,http://j.s.bkpcp.top/js/nowxyt
+暴谷台,http://j.s.bkpcp.top/js/nowbgt
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
 CCTV13,http://117.114.153.18:8182/hls/TV00000000000000000003@HHZT.m3u8
