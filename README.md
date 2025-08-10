@@ -1,4 +1,15 @@
 我T1
+彩虹1臺,http://live.urren.net/live/587258b034aa2241ae117d15322e2e22.flv
+彩虹2臺,http://live.urren.net/live/c13e28468dc33771ee40754edea77d60.flv
+彩虹3臺,http://live.urren.net/live/19cc4a3db20def19c83336544146361b.flv
+彩虹E臺,http://live.urren.net/live/84a2e0f446c4e0ffc04056ea23d504dc.flv
+彩虹K臺,http://live.urren.net/live/dc1809a9741c2e7e283c91fc6ec71f85.flv
+彩虹电影,http://live.urren.net/live/aad15ee3557f8f60cfd57ed9e27b3a6d.flv
+彩虹多拉,http://live.urren.net/live/2f5fe354e67ea2dd3f8b0e6c5143167e.flv
+彩虹惊艳,http://live.urren.net/live/b448b0538deaa4cc9949f9edbff27cff.flv
+彩虹香蕉,http://live.urren.net/live/b7bd11b991681cf76d06b2dc461fbd49.flv
+HAPPY,http://live.urren.net/live/68df0a607d2d57fd67e558660fc349a1.flv
+彩虹極致,http://live.urren.net/live/8b762b3fd5a1138eccb8ad3cbef042d3.flv
 【广西】北海联通酒店源
 合浦综合,http://222.218.158.110:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 有效期: 1天
