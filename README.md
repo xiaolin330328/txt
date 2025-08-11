@@ -3,9 +3,7 @@
 卫视,http://221.7.175.127:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视,http://live.haomaishou.com/playlist/818.m3u8
 河北卫视,http://110.255.140.174:4022/rtp/239.253.92.87:8014
-彩虹,http://15.204.105.50:25461/rtp/239.253.92.87:8014
-彩虹2,http://15.204.105.50:25461/hls/TV00000000000000000013@HHZT.m3u8
-河北卫视,http://110.255.140.174:4022/udp/239.253.248.250:8000
+CHC高清电影,http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 北京高级酒店源
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
