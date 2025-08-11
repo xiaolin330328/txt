@@ -10,9 +10,6 @@
 黑龙江卫视,http://123.101.98.102:2001/rtp/239.16.10.105:2000
 西藏卫视,http://123.101.98.102:2001/rtp/239.16.10.106:2000
 青海卫视,http://123.101.98.102:2001/rtp/239.16.10.107:2000
-湖北卫视,http://60.8.75.178:9002/hls/40/index.m3u8
-卫视,http://221.7.175.127:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-卫视,http://live.haomaishou.com/playlist/818.m3u8
 河北卫视,http://110.255.140.174:4022/rtp/239.253.92.87:8014
 CHC高清电影,http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 北京高级酒店源
