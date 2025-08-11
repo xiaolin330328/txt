@@ -1,10 +1,20 @@
 我T1
-卫视,http://116.30.250.162:9876/rtp/239.77.0.1:5146
-卫视,http://58.63.65.112:8888/rtp/239.77.0.1:5146
-卫视,http://113.76.150.251:4022/rtp/239.77.0.1:5146
-卫视,http://116.30.251.143:9876/rtp/239.77.0.1:5146
-广东卫视,http://113.103.52.15:11111/rtp/239.77.0.1:5146
-卫视,http://113.95.134.179:30001/rtp/239.77.0.1:5146
+东方卫视高清,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视高清,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视高清,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视高清,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视高清,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧高清,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市高清,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视高清,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐高清,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视高清,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视高清,http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 安徽卫视高清,http://115.207.212.121:8889/udp/233.50.201.113:5140
 重庆卫视高清,http://115.207.212.121:8889/udp/233.50.200.114:5140
