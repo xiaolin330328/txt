@@ -1,18 +1,53 @@
 我T1
-东方卫视高清,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视高清,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视高清,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视高清,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视高清,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧高清,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市高清,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视高清,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视高清,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐高清,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视高清,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视高清,http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+河南卫视,http://123.101.98.102:2001/rtp/239.16.20.21:10210
+河南都市频道,http://123.101.98.102:2001/rtp/239.16.20.164:11640
+河南民生,http://123.101.98.102:2001/rtp/239.16.20.165:11650
+河南法治频道
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.166:11660
+河南电视剧频道,http://123.101.98.102:2001/rtp/239.16.20.167:11670
+河南新闻频道
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.168:11680
+大美河南
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.17:10170
+CCTV-1,http://123.101.98.102:2001/rtp/239.16.20.1:10010
+CCTV-2
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.2:10020
+CCTV-3
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.3:10030
+CCTV-4
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.4:10040
+CCTV-5
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.53:10530
+CCTV-5+
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.5:10050
+CCTV-6
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.6:10060
+CCTV-7
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.51:10510
+CCTV-8
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.8:10080
+CCTV-9
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.9:10090
+CCTV-10
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.10:10100
+CCTV-11
+copy to clip
+http://123.101.98.102:2001/rtp/239.16.20.11:10110
+
 
 
 
