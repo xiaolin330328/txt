@@ -141,6 +141,16 @@ CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
 松视2台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
 松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/90.ts
+极限,http://live.urren.net:80/live/22e01f585bb066742bef545c5fc9c088.flv
+happy,http://live.urren.net:80/live/a70dd4fb976af5a380aabfbf774d8105.flv
+香蕉,http://live.urren.net:80/live/c249975ab23ffc0ab04d5340c354fe21.flv
+惊艳,http://live.urren.net:80/live/0eae960627e37d3c10a61c4d79d0db87.flv
+潘朵拉,http://live.urren.net:80/live/f258bf9f6ebe125acee7040cb8850b60.flv
+彩虹电影,http://live.urren.net:80/live/2dee9843071ce6246085f7c9f8ed0c30.flv
+K频道,http://live.urren.net:80/live/2d437b700b7cf5e2f1e151bb56a18106.flv
+E频道,http://live.urren.net:80/live/af0744000d2401ae554cb9eb48a60c6e.flv
+松视3,http://live.urren.net:80/live/6b94f91696e67b79dfea0b2ce567eae4.flv
+松视1,http://live.urren.net:80/live/77bcc6f5048fd90693ca6d4e9090f355.flv
 彩虹1臺,http://live.urren.net/live/587258b034aa2241ae117d15322e2e22.flv
 彩虹2臺,http://live.urren.net/live/c13e28468dc33771ee40754edea77d60.flv
 彩虹3臺,http://live.urren.net/live/19cc4a3db20def19c83336544146361b.flv
