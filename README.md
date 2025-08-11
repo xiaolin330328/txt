@@ -1,4 +1,20 @@
 我T1
+北京卫视,http://home.yulei.online:9999/rtp/226.0.2.177:9328
+河北卫视,http://home.yulei.online:9999/rtp/226.0.2.178:9336
+四川卫视HD,http://home.yulei.online:9999/rtp/226.0.2.179:9344
+贵州卫视HD,http://home.yulei.online:9999/rtp/226.0.2.180:9352
+湖南卫视,http://home.yulei.online:9999/rtp/226.0.2.33:8176
+东方卫视,http://home.yulei.online:9999/rtp/226.0.2.34:8184
+辽宁卫视,http://home.yulei.online:9999/rtp/226.0.2.35:8192
+浙江卫视,http://home.yulei.online:9999/rtp/226.0.2.36:8200
+安徽卫视,http://home.yulei.online:9999/rtp/226.0.2.37:8208
+江苏卫视,http://home.yulei.online:9999/rtp/226.0.2.38:8216
+北京卫视,http://home.yulei.online:9999/rtp/226.0.2.39:8224
+东南卫视,http://home.yulei.online:9999/rtp/226.0.2.40:8232
+四川卫视,http://home.yulei.online:9999/rtp/226.0.2.42:8248
+贵州卫视,http://home.yulei.online:9999/rtp/226.0.2.43:8256
+广东卫视,http://home.yulei.online:9999/rtp/226.0.2.45:8272
+广西卫视,http://home.yulei.online:9999/rtp/226.0.2.46:8280
 
 河南卫视,http://123.101.98.102:2001/rtp/239.16.20.21:10210
 河南都市频道,http://123.101.98.102:2001/rtp/239.16.20.164:11640
