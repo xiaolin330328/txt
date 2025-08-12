@@ -1,4 +1,24 @@
 我T1
+【上海】上海电信
+家庭理财高清,http://router.870503.xyz:18885/udp/239.45.0.14:5140
+
+【广西】北海联通酒店源
+海岸大酒店宣传,http://221.7.175.154:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北海经济科教,http://221.7.175.154:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://221.7.175.154:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://221.7.175.154:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺旅游,http://221.7.175.154:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://221.7.175.154:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://221.7.175.154:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影台,http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+有效期: 75天
+【上海】上海电信
+上海东方影视,http://router.870503.xyz:18885/udp/239.45.3.237:5140
+上海教育,http://router.870503.xyz:18885/udp/239.45.3.122:5140
+有效期: 1094天
+
 北京卫视,http://home.yulei.online:9999/rtp/226.0.2.177:9328
 河北卫视,http://home.yulei.online:9999/rtp/226.0.2.178:9336
 四川卫视HD,http://home.yulei.online:9999/rtp/226.0.2.179:9344
