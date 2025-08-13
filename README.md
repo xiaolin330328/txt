@@ -21,6 +21,12 @@
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
+江苏国际,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
+江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
+江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
+江苏城市,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
+江苏教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSJY/G_JSJY.m3u8
+江苏影视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSYS/G_JSYS.m3u8
  银川1,http://live-gitv-nxll-yh.189smarthome.com/live/hd1.m3u8 
  银川2,http://live-gitv-nxll-yh.189smarthome.com/live/hd2.m3u8  
  银川3,http://live-gitv-nxll-yh.189smarthome.com/live/hd3.m3u8
