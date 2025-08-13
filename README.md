@@ -21,6 +21,9 @@
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
+ 银川1,http://live-gitv-nxll-yh.189smarthome.com/live/hd1.m3u8 
+ 银川2,http://live-gitv-nxll-yh.189smarthome.com/live/hd2.m3u8  
+ 银川3,http://live-gitv-nxll-yh.189smarthome.com/live/hd3.m3u8
 【广西】北海联通酒店源
 海岸大酒店宣传,http://221.7.175.154:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北海经济科教,http://221.7.175.154:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
