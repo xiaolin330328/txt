@@ -1,6 +1,7 @@
 我CCTV1
 【广西】贵港联通
-
+星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
+爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
 
 广西卫视高清,http://110.72.21.37:808/hls/7/index.m3u8
 广西综艺旅游高清,http://110.72.21.37:808/hls/8/index.m3u8
