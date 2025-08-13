@@ -1,4 +1,14 @@
 我CCTV1
+【广西】贵港联通
+广西卫视高清,http://110.72.21.37:808/hls/1/index.m3u8
+广西综艺旅游高清,http://110.72.21.37:808/hls/2/index.m3u8
+广西都市高清,http://110.72.21.37:808/hls/3/index.m3u8
+广西新闻高清,http://110.72.21.37:808/hls/4/index.m3u8
+广西影视高清,http://110.72.21.37:808/hls/5/index.m3u8
+广西移动,http://110.72.21.37:808/hls/6/index.m3u8
+南宁文旅生活高清,http://110.72.21.37:808/hls/64/index.m3u8
+南宁影视娱乐高清,http://110.72.21.37:808/hls/65/index.m3u8
+南宁公共高清,http://110.72.21.37:808/hls/66/index.m3u8
  浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 天津电信-组播1,#genre#
  天津卫视,http://180.213.170.24:8188/rtp/239.5.1.1:5000
