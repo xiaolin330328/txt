@@ -277,6 +277,16 @@ CCTV6,http://117.114.153.18:8182/hls/TV00000000000000000091@HHZT.m3u8
 影迷电影,http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
 北京财经,http://117.114.153.18:8182/hls/TV00000000000000000095@HHZT.m3u8
 CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
+极限,http://live.urren.net:80/live/e375eb5725c74382831d6352278374af.flv
+happy,http://live.urren.net:80/live/c27c44cdc06d8e9894f4447236a01ab2.flv
+香蕉,http://live.urren.net:80/live/c88ee9c963ebb72ef6da1caa153bcbbe.flv
+惊艳,http://live.urren.net:80/live/cd9d38f1ed8b2be72b31eff757953a70.flv
+潘朵拉,http://live.urren.net:80/live/be0354b4e440f5880c6156564c44e582.flv
+彩虹电影,http://live.urren.net:80/live/b565ceed0059fe58a68eff11bce606e3.flv
+K频道,http://live.urren.net:80/live/c18d3b0c16940f005230cd71e3cfa26e.flv
+E频道,http://live.urren.net:80/live/ce848f88fd80ca4097346874facf94cf.flv
+松视3,http://live.urren.net:80/live/d3451abf9439b23f83d2659ea58a23d3.flv
+松视1,http://live.urren.net:80/live/469b706b22afc36d0a8b74352705fffa.flv
 彩虹,1http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/81.ts
 称呼,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
 潘多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
