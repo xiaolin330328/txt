@@ -1,12 +1,8 @@
 我11
-广东卫视,http://114.104.141.218:8686/rtp/238.1.78.161:7160
-广东卫视,http://119.53.58.104:5003/gdws.m3u8?token=7375646f810bc373ab6d86b402eda4b9e86d8240&z=1f4e
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东卫视,http://36.32.99.215:5003/gdws.m3u8
-广东卫视,http://aiony.top:35455/nptv/guangdong.m3u8
 湖南,http://ygbh.site/php/bfgd.php?id=086
 湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
-卫视,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8
 星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
 爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
 
