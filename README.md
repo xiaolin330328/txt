@@ -1,4 +1,5 @@
 我CCTV1
+http://113.15.109.216:59901/tsfile/live/0001_1.m3u8
 CCTV1,http://117.158.43.187:2016/全网通.php?id=CCTV1
 CCTV2,http://117.158.43.187:2016/全网通.php?id=CCTV2
 CCTV3,http://117.158.43.187:2016/全网通.php?id=CCTV3
@@ -179,6 +180,7 @@ CCTV1,http://cdn.jdshipin.com/jisu.php?id=cctv1
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
+
 江苏国际,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGJ/G_JSGJ.m3u8
 江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
 江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
