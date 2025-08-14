@@ -1,26 +1,6 @@
 我TV1
-复制到剪辑	http://183.184.48.110:9003/hls/33/index.m3u8
-2025年8月12日已检查
-湖南卫视,http://119.53.58.104:5003/hunanws.m3u8?token=7375646f810bc373ab6d86b402eda4b9e86d8240&z=1f4e
-2025年8月12日已检查
-湖,http://183.184.48.110:9003/hls/33/index.m3u8
-2025-08-12 广东 已检查 •1920x1080快速地
-湖南,http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
-2025年8月11日 海南已检查 •1920x1080快点快点
 湖南,http://ygbh.site/php/bfgd.php?id=086
-2025-08-10 忠清南道已检查 •1920x1080
 湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
-08-10-2025 四色菊检查•1280x720快速地
-湖南卫视,http://sh.lnott.top:880/dx31.m3u8
-2025-08-08 广东 已检查 •1920x1080
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-2025-08-12 湖南 已检查 •1920x1080
-湖南卫,http://159.75.158.122:8007/nptv/hunan.m3u8
-2025-08-01 天津已检查 •1920x1080快点快点
-湖南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-2025年7月26日 北京已检查 •1920x1080
-湖南卫,http://36.32.99.215:5003/hunanws.m3u8
-2025-07-23 江西 已检
 卫视,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8
 星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
 爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
