@@ -168,6 +168,16 @@ CCTV6,http://117.114.153.18:8182/hls/TV00000000000000000091@HHZT.m3u8
 影迷电影,http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
 北京财经,http://117.114.153.18:8182/hls/TV00000000000000000095@HHZT.m3u8
 CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
+极限,http://live.urren.net:80/live/76e49485d48534bb9918954e1c8e0793.flv
+happy,http://live.urren.net:80/live/fcec3e992d1c88bd2438827a250ba1b6.flv
+香蕉,http://live.urren.net:80/live/b57306803555f932347a5380ec1d35b4.flv
+惊艳,http://live.urren.net:80/live/d1dfbc07ecc86d4490f6cde8085de3f7.flv
+潘朵拉,http://live.urren.net:80/live/1e016270d629a8d9f829fa0f09153610.flv
+彩虹电影,http://live.urren.net:80/live/c33c117c21c52ffcc6f539c2207a7a0c.flv
+K频道,http://live.urren.net:80/live/cf1473a87e268715e9bf365cb7177306.flv
+E频道,http://live.urren.net:80/live/8a4b5e49b8b215c2f045a19b260a80a9.flv
+松视3,http://live.urren.net:80/live/7e6506437db16fd3c55d2e02572dadb2.flv
+松视1,http://live.urren.net:80/live/c06f7a200f53e492cd0b2dabea75ab2c.flv
 极限,http://live.urren.net:80/live/e375eb5725c74382831d6352278374af.flv
 happy,http://live.urren.net:80/live/c27c44cdc06d8e9894f4447236a01ab2.flv
 香蕉,http://live.urren.net:80/live/c88ee9c963ebb72ef6da1caa153bcbbe.flv
@@ -466,7 +476,7 @@ TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b2861a&tk=922ba46651d3
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8
-金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
+金综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
