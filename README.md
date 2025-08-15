@@ -1,6 +1,11 @@
 我1
+http://www.dsk.cc/shtv/shtv3.php?id=wxty
+http://www.dsk.cc/shtv/shtv1.php?id=wxty
+http://www.dsk.cc/shtv/shtv2.php?id=wxty
 星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8
 星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1038_1.m3u8
+星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1037_1.m3u8
+星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1036_1.m3u8
 吉林影视,http://175.30.226.24:10086/rtp/239.37.0.103:5540
 吉林东北,http://175.30.226.24:10086/rtp/239.37.0.109:5540
 吉林公共,http://175.30.226.24:10086/rtp/239.37.0.106:5540
