@@ -67,15 +67,7 @@ Channel Ginga,https://mt02.utako.moe/gingach/index.m3u8
 Tabi Channel,https://mt02.utako.moe/tabi/index.m3u8
 Pigoo (NSFW),https://mt02.utako.moe/pigoo/index.m3u8
 V Paradise (NSFW),https://mt02.utako.moe/v_paradise/index.m3u88
-【澳门】地面DMTD,#genre#
-澳门葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-TVB 明珠台高清,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB plus高清,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-TVB 无线新闻台高清,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-凤凰香港台高清,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
+
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东卫视,http://36.32.99.215:5003/gdws.m3u8
 湖南,http://ygbh.site/php/bfgd.php?id=086
