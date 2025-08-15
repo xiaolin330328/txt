@@ -1,4 +1,6 @@
-我11
+我1
+CCTV1,http://tv.netlive.ggff.net/cctv1
+深圳卫视,http://tv.netlive.ggff.net/szws
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东卫视,http://36.32.99.215:5003/gdws.m3u8
 湖南,http://ygbh.site/php/bfgd.php?id=086
