@@ -16,9 +16,14 @@ TVB plus高清,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB 无线新闻台高清,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 凤凰香港台高清,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+浙江卫视,https://h5cdn3.kylintv.tv/live/zjtvhd_iphone.m3u8
+广江苏卫视,https://h5cdn3.kylintv.tv/live/jstvhd_iphone.m3u8
 广东卫视,http://36.32.99.215:5003/gdws.m3u8
 湖南,http://ygbh.site/php/bfgd.php?id=086
-湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
+湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3js
+湖南,https://k44991.kylintv.tv/live/sztvhd_iphone.m3js
+湖南,https://k44991.kylintv.tv/live/bjtvhd_iphone.m3js
+湖南,https://k44991.kylintv.tv/live/tjtvhd_iphone.m3js
 星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
 爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
 【广西】南宁联通酒店源
