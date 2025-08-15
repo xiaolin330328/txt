@@ -1,5 +1,4 @@
 我1
-深圳卫视,http://113.205.49.165:8089/newlive/live/hls/48/live.m3u8
 吉林影视,http://175.30.226.24:10086/rtp/239.37.0.103:5540
 吉林东北,http://175.30.226.24:10086/rtp/239.37.0.109:5540
 吉林公共,http://175.30.226.24:10086/rtp/239.37.0.106:5540
@@ -29,133 +28,17 @@ CRT娱乐,http://175.30.226.24:10086/rtp/239.37.0.97:5540
 通化2,http://175.30.226.24:10086/rtp/239.37.0.133:5540
 通化3,http://175.30.226.24:10086/rtp/239.37.0.134:5540
 白山公共1,http://175.30.226.24:10086/rtp/239.37.0.137:5540
-NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
-NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
-NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
-TBS,https://mt01.utako.moe/TBS/index.m3u8
-Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
-TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
-TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
-TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-MBS,https://mt01.utako.moe/mbs/index.m3u8
-ABC,https://mt01.utako.moe/abc/index.m3u8
-TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
-Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
-ytv,https://mt01.utako.moe/ytv/index.m3u8
-KBS,https://mt01.utako.moe/kbs/index.m3u8
-SUN,https://mt01.utako.moe/suntv/index.m3u8
-NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
-BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
-BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
-BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
-BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
-BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
-BS10,https://mt01.utako.moe/bs10/index.m3u8
-BS11,https://mt01.utako.moe/BS11/index.m3u8
-BS12,https://mt01.utako.moe/bs12/index.m3u8
-NHK BS4K,https://mt01.utako.moe/bsp4k/index.m3u8
-BS TV Tokyo 4K (test),https://mt01.utako.moe/bstx4k/index.m3u8
-WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
-WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
-WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
-BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
-JSport 1,https://mt01.utako.moe/js1/index.m3u8
-JSport 2,https://mt01.utako.moe/js2/index.m3u8
-JSport 3,https://mt01.utako.moe/js3/index.m3u8
-JSport 4,https://mt01.utako.moe/js4/index.m3u8
-Green Channel,https://mt01.utako.moe/green/index.m3u8
-Animax,https://mt02.utako.moe/Animax/index.m3u8
-Nihon Eiga Senmon,https://mt02.utako.moe/nihoneiga/index.m3u8
-Sky A,https://mt02.utako.moe/skya/index.m3u8
-Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
-AT-X,https://mt01.utako.moe/AT-X/index.m3u8
-Space Shower TV,https://mt02.utako.moe/spaceshower/index.m3u8
-MTV,https://mt02.utako.moe/mtv/index.m3u8
-Kayo Pops,https://mt02.utako.moe/kayopops/index.m3u8
-Disney Channel,https://mt02.utako.moe/disneychan/index.m3u8
-Cartoon Network Japan,https://mt02.utako.moe/cartoon_network/index.m3u8
-Nittele G+,https://mt02.utako.moe/ntvgplus/index.m3u8
-Family Gekijyo,https://mt02.utako.moe/familygeki/index.m3u8
-Mondo TV,https://mt02.utako.moe/mondo/index.m3u8
-TBS Channel 1,https://mt02.utako.moe/tbsch1/index.m3u8
-TBS Channel 2,https://mt02.utako.moe/tbsch2/index.m3u8
-TV Asahi Channel 1,https://mt02.utako.moe/ex_ch1/index.m3u8
-TV Asahi Channel 2,https://mt02.utako.moe/ex_ch2/index.m3u8
-Fuji TV ONE,https://mt02.utako.moe/fuji_one/index.m3u8
-Fuji TV TWO,https://mt02.utako.moe/fuji_two/index.m3u8
-Fuji TV NEXT,https://mt02.utako.moe/fuji_next/index.m3u8
-Neco Channel,https://mt02.utako.moe/neco/index.m3u8
-Dlife,https://mt02.utako.moe/dlife/index.m3u8
-Toei Channel,https://mt02.utako.moe/toei/index.m3u8
-Fighting TV Samurai,https://mt02.utako.moe/fighting_tv/index.m3u8
-Entermei Tele,https://mt02.utako.moe/entermei_tele/index.m3u8
-Sport Live Plus,https://mt02.utako.moe/sport_live_plus/index.m3u8
-Home Drama Channel,https://mt02.utako.moe/homedrama/index.m3u8
-Channel Ginga,https://mt02.utako.moe/gingach/index.m3u8
-Tabi Channel,https://mt02.utako.moe/tabi/index.m3u8
-Pigoo (NSFW),https://mt02.utako.moe/pigoo/index.m3u8
-V Paradise (NSFW),https://mt02.utako.moe/v_paradise/index.m3u88
+
 
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-广东卫视,http://36.32.99.215:5003/gdws.m3u8
 湖南,http://ygbh.site/php/bfgd.php?id=086
 湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3js
-星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
-爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
-【广西】南宁联通酒店源
-柳州新闻综合高清,http://36.136.36.223:9003/hls/58/index.m3u8
-柳州科教高清,http://36.136.36.223:9003/hls/59/index.m3u8
-河池新闻综合高清,http://36.136.36.223:9003/hls/61/index.m3u8
-贺州综合高清,http://36.136.36.223:9003/hls/60/index.m3u8
-百色综合高清,http://36.136.36.223:9003/hls/70/index.m3u8
-来宾综合高清,http://36.136.36.223:9003/hls/71/index.m3u8
-南宁新闻综合高清,http://36.136.36.223:9003/hls/64/index.m3u8
-南宁文旅生活高清,http://36.136.36.223:9003/hls/65/index.m3u8
-南宁公共高清,http://36.136.36.223:9003/hls/66/index.m3u8
-南宁影视娱乐高清,http://36.136.36.223:9003/hls/67/index.m3u8
-北海新闻综合高清,http://36.136.36.223:9003/hls/68/index.m3u8
-北海经济科教高清,http://36.136.36.223:9003/hls/69/index.m3u8
-梧州新闻综合高清,http://36.136.36.223:9003/hls/72/index.m3u8
-梧州教育生活高清,http://36.136.36.223:9003/hls/73/index.m3u8
-防城港新闻综合高清,http://36.136.36.223:9003/hls/74/index.m3u8
-防城港公共高清,http://36.136.36.223:9003/hls/75/index.m3u8
-桂林新闻综合高清,http://36.136.36.223:9003/hls/77/index.m3u8
-桂林科教旅游高清,http://36.136.36.223:9003/hls/78/index.m3u8
-桂林公共高清,http://36.136.36.223:9003/hls/79/index.m3u8
-贵港新闻综合高清,http://36.136.36.223:9003/hls/80/index.m3u8
-贵港科教生活高清,http://36.136.36.223:9003/hls/81/index.m3u8
-钦州综合高清,http://36.136.36.223:9003/hls/82/index.m3u8
-钦州公共高清,http://36.136.36.223:9003/hls/83/index.m3u8
-崇左综合高清,http://36.136.36.223:9003/hls/76/index.m3u8
-广西石油电视台,http://36.136.36.223:9003/hls/122/index.m3u8
-
-有效期: 2天,#genre#
-广西卫视高清,http://110.72.21.37:808/hls/1/index.m3u8
-广西综艺旅游高清,http://110.72.21.37:808/hls/2/index.m3u8
-广西都市高清,http://110.72.21.37:808/hls/3/index.m3u8
-广西新闻高清,http://110.72.21.37:808/hls/4/index.m3u8
-广西影视高清,http://110.72.21.37:808/hls/5/index.m3u8
-广西移动,http://110.72.21.37:808/hls/6/index.m3u8
-南宁文旅生活高清,http://110.72.21.37:808/hls/64/index.m3u8
-南宁影视娱乐高清,http://110.72.21.37:808/hls/65/index.m3u8
-南宁公共高清,http://110.72.21.37:808/hls/66/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
-
-江苏国际,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGJ/G_JSGJ.m3u8
-江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
-江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
-江苏城市,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
-江苏教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSJY/G_JSJY.m3u8
-江苏影视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSYS/G_JSYS.m3u8
- 银川1,http://live-gitv-nxll-yh.189smarthome.com/live/hd1.m3u8 
- 银川2,http://live-gitv-nxll-yh.189smarthome.com/live/hd2.m3u8  
- 银川3,http://live-gitv-nxll-yh.189smarthome.com/live/hd3.m3u8
-【广西】北海联通酒店源
+【广西】北海联通酒店源,#genera#
 海岸大酒店宣传,http://221.7.175.154:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北海经济科教,http://221.7.175.154:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://221.7.175.154:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -172,21 +55,6 @@ V Paradise (NSFW),https://mt02.utako.moe/v_paradise/index.m3u88
 上海教育,http://router.870503.xyz:18885/udp/239.45.0.051:5140
 有效期: 1094天
 
-北京卫视,http://home.yulei.online:9999/rtp/226.0.2.177:9328
-河北卫视,http://home.yulei.online:9999/rtp/226.0.2.178:9336
-四川卫视HD,http://home.yulei.online:9999/rtp/226.0.2.179:9344
-贵州卫视HD,http://home.yulei.online:9999/rtp/226.0.2.180:9352
-湖南卫视,http://home.yulei.online:9999/rtp/226.0.2.33:8176
-东方卫视,http://home.yulei.online:9999/rtp/226.0.2.34:8184
-辽宁卫视,http://home.yulei.online:9999/rtp/226.0.2.35:8192
-浙江卫视,http://home.yulei.online:9999/rtp/226.0.2.36:8200
-安徽卫视,http://home.yulei.online:9999/rtp/226.0.2.37:8208
-江苏卫视,http://home.yulei.online:9999/rtp/226.0.2.38:8216
-北京卫视,http://home.yulei.online:9999/rtp/226.0.2.39:8224
-东南卫视,http://home.yulei.online:9999/rtp/226.0.2.40:8232
-四川卫视,http://home.yulei.online:9999/rtp/226.0.2.42:8248
-贵州卫视,http://home.yulei.online:9999/rtp/226.0.2.43:8256
-广东卫视,http://home.yulei.online:9999/rtp/226.0.2.45:8272
 
 安徽卫视高清,http://115.207.212.121:8889/udp/233.50.201.113:5140
 重庆卫视高清,http://115.207.212.121:8889/udp/233.50.200.114:5140
@@ -230,7 +98,7 @@ V Paradise (NSFW),https://mt02.utako.moe/v_paradise/index.m3u88
 
 
 CHC高清电影,http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-北京高级酒店源#
+北京高级酒店源#genera#
 CCTV4,http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
 CCTV13,http://117.114.153.18:8182/hls/TV00000000000000000003@HHZT.m3u8
@@ -295,87 +163,17 @@ CCTV6,http://117.114.153.18:8182/hls/TV00000000000000000091@HHZT.m3u8
 影迷电影,http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
 北京财经,http://117.114.153.18:8182/hls/TV00000000000000000095@HHZT.m3u8
 CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
-彩虹1臺,http://live.urren.net/live/e14feec32cd4d9427810bc00fee583a2.flv
-彩虹2臺,http://live.urren.net/live/59d49152810123fa671fe6257493e6f4.flv
-彩虹3臺,http://live.urren.net/live/51fb1c059c2e54f4909b9c0b4f7a5e84.flv
-彩虹E臺,http://live.urren.net/live/712c34cea5927a4667e653eea6fc3c6d.flv
-彩虹K臺,http://live.urren.net/live/96f2bd46b9db91a544168d779a2756bf.flv
-彩虹电影,http://live.urren.net/live/a950c7e6f771d5f19894d1f35e434960.flv
-彩虹多拉,http://live.urren.net/live/0f2f57f9cf31a967855a552d25fbd499.flv
-彩虹惊艳,http://live.urren.net/live/69653f64d4d2ca3438539699830006d3.flv
-彩虹香蕉,http://live.urren.net/live/5b0bd61e9a4aa9ee4b16443c162d1970.flv
-彩虹HAPPY,http://live.urren.net/live/4e991600f2f556b69f26e00d678ff782.flv
-彩虹極致,http://live.urren.net/live/95752691dec60c603e57864a259b718d.flv
-XXmax,http://live.urren.net/live/aa7e3c23f7d3c69345738f9b91d2c76d.flv
-XXPIUS,http://live.urren.net/live/a001588520a6f4a7b113f96b6cbfb0ab.flv
-XXmix,http://live.urren.net/live/d7460f07b1020a0862c0cf4eca2675d0.flv
-红星,http://live.urren.net/live/4f3689658d4bc7c2110160d336d34026.flv
-蓝点,http://live.urren.net/live/d0bae6e24edcd1573712ed0064226423.flv
-DUR,http://live.urren.net/live/e4d0e0e3db8a75d1d42552bcce8224a8.flv
-大奶,http://live.urren.net/live/f0c682048b7eb2ca753d414e5858cee6.flv
-8/15
-彩虹e,http://live.urren.net/live/712c34cea5927a4667e653eea6fc3c6d.flv
-松视3,http://live.urren.net/live/51fb1c059c2e54f4909b9c0b4f7a5e84.flv
-Happy,http://live.urren.net/live/51fb1c059c2e54f4909b9c0b4f7a5e84.flv
-极限,http://live.urren.net:80/live/95752691dec60c603e57864a259b718d.flv
-惊艳,http://live.urren.net:80/live/69653f64d4d2ca3438539699830006d3.flv
-潘多拉,http://live.urren.net:80/live/0f2f57f9cf31a967855a552d25fbd499.flv
-彩虹电影,http://live.urren.net:80/live/a950c7e6f771d5f19894d1f35e434960.flv
-K,http://live.urren.net:80/live/96f2bd46b9db91a544168d779a2756bf.flv
-松视1,http://live.urren.net:80/live/e14feec32cd4d9427810bc00fee583a2.flv
 
-
-分享
-极限,http://live.urren.net:80/live/76e49485d48534bb9918954e1c8e0793.flv
-happy,http://live.urren.net:80/live/fcec3e992d1c88bd2438827a250ba1b6.flv
-香蕉,http://live.urren.net:80/live/b57306803555f932347a5380ec1d35b4.flv
-惊艳,http://live.urren.net:80/live/d1dfbc07ecc86d4490f6cde8085de3f7.flv
-潘朵拉,http://live.urren.net:80/live/1e016270d629a8d9f829fa0f09153610.flv
-彩虹电影,http://live.urren.net:80/live/c33c117c21c52ffcc6f539c2207a7a0c.flv
-K频道,http://live.urren.net:80/live/cf1473a87e268715e9bf365cb7177306.flv
-E频道,http://live.urren.net:80/live/8a4b5e49b8b215c2f045a19b260a80a9.flv
-松视3,http://live.urren.net:80/live/7e6506437db16fd3c55d2e02572dadb2.flv
-松视1,http://live.urren.net:80/live/c06f7a200f53e492cd0b2dabea75ab2c.flv
-极限,http://live.urren.net:80/live/e375eb5725c74382831d6352278374af.flv
-happy,http://live.urren.net:80/live/c27c44cdc06d8e9894f4447236a01ab2.flv
-香蕉,http://live.urren.net:80/live/c88ee9c963ebb72ef6da1caa153bcbbe.flv
-惊艳,http://live.urren.net:80/live/cd9d38f1ed8b2be72b31eff757953a70.flv
-潘朵拉,http://live.urren.net:80/live/be0354b4e440f5880c6156564c44e582.flv
-彩虹电影,http://live.urren.net:80/live/b565ceed0059fe58a68eff11bce606e3.flv
-K频道,http://live.urren.net:80/live/c18d3b0c16940f005230cd71e3cfa26e.flv
-E频道,http://live.urren.net:80/live/ce848f88fd80ca4097346874facf94cf.flv
-松视3,http://live.urren.net:80/live/d3451abf9439b23f83d2659ea58a23d3.flv
-松视1,http://live.urren.net:80/live/469b706b22afc36d0a8b74352705fffa.flv
-彩虹,1http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/81.ts
+彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/81.ts
 称呼,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
 潘多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
 惊怡,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
 松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
 松视2台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
 松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/90.ts
-极限,http://live.urren.net:80/live/22e01f585bb066742bef545c5fc9c088.flv
-happy,http://live.urren.net:80/live/a70dd4fb976af5a380aabfbf774d8105.flv
-香蕉,http://live.urren.net:80/live/c249975ab23ffc0ab04d5340c354fe21.flv
-惊艳,http://live.urren.net:80/live/0eae960627e37d3c10a61c4d79d0db87.flv
-潘朵拉,http://live.urren.net:80/live/f258bf9f6ebe125acee7040cb8850b60.flv
-彩虹电影,http://live.urren.net:80/live/2dee9843071ce6246085f7c9f8ed0c30.flv
-K频道,http://live.urren.net:80/live/2d437b700b7cf5e2f1e151bb56a18106.flv
-E频道,http://live.urren.net:80/live/af0744000d2401ae554cb9eb48a60c6e.flv
-松视3,http://live.urren.net:80/live/6b94f91696e67b79dfea0b2ce567eae4.flv
-松视1,http://live.urren.net:80/live/77bcc6f5048fd90693ca6d4e9090f355.flv
-彩虹1臺,http://live.urren.net/live/587258b034aa2241ae117d15322e2e22.flv
-彩虹2臺,http://live.urren.net/live/c13e28468dc33771ee40754edea77d60.flv
-彩虹3臺,http://live.urren.net/live/19cc4a3db20def19c83336544146361b.flv
-彩虹E臺,http://live.urren.net/live/84a2e0f446c4e0ffc04056ea23d504dc.flv
-彩虹K臺,http://live.urren.net/live/dc1809a9741c2e7e283c91fc6ec71f85.flv
-彩虹电影,http://live.urren.net/live/aad15ee3557f8f60cfd57ed9e27b3a6d.flv
-彩虹多拉,http://live.urren.net/live/2f5fe354e67ea2dd3f8b0e6c5143167e.flv
-彩虹惊艳,http://live.urren.net/live/b448b0538deaa4cc9949f9edbff27cff.flv
-彩虹香蕉,http://live.urren.net/live/b7bd11b991681cf76d06b2dc461fbd49.flv
-HAPPY,http://live.urren.net/live/68df0a607d2d57fd67e558660fc349a1.flv
-彩虹極致,http://live.urren.net/live/8b762b3fd5a1138eccb8ad3cbef042d3.flv
 
-直播源等影视资源分享交流群
+
+香港直播源等影视资源分享交流群,#genera#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -647,22 +445,7 @@ TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b2861a&tk=922ba46651d3
 吉林影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
 吉林教育,http://tpc.x3322.net:9901/tsfile/live/1004_1.m3u8
 吉林都市,http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8
-陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
-雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
-临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
-黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
-龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed&quot;
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+
 
 天映,http://lzoq.serv00.net/daili/Smartv.php?id=Celestial
 纬来电影,http://lzoq.serv00.net/daili/Smartv.php?id=videolandmovie
@@ -691,15 +474,13 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 
-【柬埔寨】柬埔寨酒店源,#genre#
+6月100天【柬埔寨】柬埔寨酒店源,#genre#
 【柬埔寨精品娱乐】,http://103.121.188.31:9901/tsfile/live/1047_1.m3u8
 法国TV5信息,http://103.121.188.31:9901/tsfile/live/1044_1.m3u8
 CNA高清,http://103.121.188.31:9901/tsfile/live/1043_1.m3u8
 蓝天体育,http://103.121.188.31:9901/tsfile/live/1048_1.m3u8
 柬埔寨监狱电影,http://103.121.188.31:9901/tsfile/live/1045_1.m3u8
 内蒙古蒙语,http://103.121.188.31:9901/tsfile/live/1009_1.m3u8
-
-有效期：100天
 CCTV1,http://103.121.188.31:9901/tsfile/live/1008_1.m3u8
 中央电视台2套节目,http://103.121.188.31:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3频道,http://103.121.188.31:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
