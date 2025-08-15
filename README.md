@@ -5,7 +5,34 @@
 湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
 星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxyt.flv
 爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowbgt.flv
+【广西】南宁联通酒店源
+柳州新闻综合高清,http://36.136.36.223:9003/hls/58/index.m3u8
+柳州科教高清,http://36.136.36.223:9003/hls/59/index.m3u8
+河池新闻综合高清,http://36.136.36.223:9003/hls/61/index.m3u8
+贺州综合高清,http://36.136.36.223:9003/hls/60/index.m3u8
+百色综合高清,http://36.136.36.223:9003/hls/70/index.m3u8
+来宾综合高清,http://36.136.36.223:9003/hls/71/index.m3u8
+南宁新闻综合高清,http://36.136.36.223:9003/hls/64/index.m3u8
+南宁文旅生活高清,http://36.136.36.223:9003/hls/65/index.m3u8
+南宁公共高清,http://36.136.36.223:9003/hls/66/index.m3u8
+南宁影视娱乐高清,http://36.136.36.223:9003/hls/67/index.m3u8
+北海新闻综合高清,http://36.136.36.223:9003/hls/68/index.m3u8
+北海经济科教高清,http://36.136.36.223:9003/hls/69/index.m3u8
+梧州新闻综合高清,http://36.136.36.223:9003/hls/72/index.m3u8
+梧州教育生活高清,http://36.136.36.223:9003/hls/73/index.m3u8
+防城港新闻综合高清,http://36.136.36.223:9003/hls/74/index.m3u8
+防城港公共高清,http://36.136.36.223:9003/hls/75/index.m3u8
+桂林新闻综合高清,http://36.136.36.223:9003/hls/77/index.m3u8
+桂林科教旅游高清,http://36.136.36.223:9003/hls/78/index.m3u8
+桂林公共高清,http://36.136.36.223:9003/hls/79/index.m3u8
+贵港新闻综合高清,http://36.136.36.223:9003/hls/80/index.m3u8
+贵港科教生活高清,http://36.136.36.223:9003/hls/81/index.m3u8
+钦州综合高清,http://36.136.36.223:9003/hls/82/index.m3u8
+钦州公共高清,http://36.136.36.223:9003/hls/83/index.m3u8
+崇左综合高清,http://36.136.36.223:9003/hls/76/index.m3u8
+广西石油电视台,http://36.136.36.223:9003/hls/122/index.m3u8
 
+有效期: 2天,#genre#
 广西卫视高清,http://110.72.21.37:808/hls/1/index.m3u8
 广西综艺旅游高清,http://110.72.21.37:808/hls/2/index.m3u8
 广西都市高清,http://110.72.21.37:808/hls/3/index.m3u8
