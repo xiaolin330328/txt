@@ -1,4 +1,5 @@
 我1
+http://113.205.49.165:8089/newlive/live/hls/48/live.m3u8
 NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
 NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
 NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
