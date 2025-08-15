@@ -1,8 +1,71 @@
 我1
-深圳卫视,http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=SWSjB/index.m3u8
-深圳卫视,	http://107.174.52.32/itv.php?id=%e6%b7%b1%e5%9c%b3%e5%8d%ab%e8%a7%86
-卫视,http://123.138.88.162:3389/SWSjB/index.m3u8
-深圳卫视,http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=SWSjB/index.m3u8
+NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
+NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
+NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
+TBS,https://mt01.utako.moe/TBS/index.m3u8
+Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
+TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+MBS,https://mt01.utako.moe/mbs/index.m3u8
+ABC,https://mt01.utako.moe/abc/index.m3u8
+TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
+Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
+ytv,https://mt01.utako.moe/ytv/index.m3u8
+KBS,https://mt01.utako.moe/kbs/index.m3u8
+SUN,https://mt01.utako.moe/suntv/index.m3u8
+NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
+BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
+BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
+BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
+BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
+BS10,https://mt01.utako.moe/bs10/index.m3u8
+BS11,https://mt01.utako.moe/BS11/index.m3u8
+BS12,https://mt01.utako.moe/bs12/index.m3u8
+NHK BS4K,https://mt01.utako.moe/bsp4k/index.m3u8
+BS TV Tokyo 4K (test),https://mt01.utako.moe/bstx4k/index.m3u8
+WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
+WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
+BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
+JSport 1,https://mt01.utako.moe/js1/index.m3u8
+JSport 2,https://mt01.utako.moe/js2/index.m3u8
+JSport 3,https://mt01.utako.moe/js3/index.m3u8
+JSport 4,https://mt01.utako.moe/js4/index.m3u8
+Green Channel,https://mt01.utako.moe/green/index.m3u8
+Animax,https://mt02.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://mt02.utako.moe/nihoneiga/index.m3u8
+Sky A,https://mt02.utako.moe/skya/index.m3u8
+Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
+AT-X,https://mt01.utako.moe/AT-X/index.m3u8
+Space Shower TV,https://mt02.utako.moe/spaceshower/index.m3u8
+MTV,https://mt02.utako.moe/mtv/index.m3u8
+Kayo Pops,https://mt02.utako.moe/kayopops/index.m3u8
+Disney Channel,https://mt02.utako.moe/disneychan/index.m3u8
+Cartoon Network Japan,https://mt02.utako.moe/cartoon_network/index.m3u8
+Nittele G+,https://mt02.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://mt02.utako.moe/familygeki/index.m3u8
+Mondo TV,https://mt02.utako.moe/mondo/index.m3u8
+TBS Channel 1,https://mt02.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://mt02.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://mt02.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://mt02.utako.moe/ex_ch2/index.m3u8
+Fuji TV ONE,https://mt02.utako.moe/fuji_one/index.m3u8
+Fuji TV TWO,https://mt02.utako.moe/fuji_two/index.m3u8
+Fuji TV NEXT,https://mt02.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://mt02.utako.moe/neco/index.m3u8
+Dlife,https://mt02.utako.moe/dlife/index.m3u8
+Toei Channel,https://mt02.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://mt02.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://mt02.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://mt02.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://mt02.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://mt02.utako.moe/gingach/index.m3u8
+Tabi Channel,https://mt02.utako.moe/tabi/index.m3u8
+Pigoo (NSFW),https://mt02.utako.moe/pigoo/index.m3u8
+V Paradise (NSFW),https://mt02.utako.moe/v_paradise/index.m3u88
 【澳门】地面DMTD,#genre#
 澳门葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
