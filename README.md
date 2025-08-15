@@ -101,10 +101,6 @@ CHC动作电影K1,http://117.141.162.238:8181/tsfile/live/1121_1.m3u8?key=txiptv
 广东珠江备用,http://117.141.162.238:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 风云剧场 高清,http://117.141.162.238:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 
-星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8
-星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1038_1.m3u8
-星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1037_1.m3u8
-星河粤语ljk解码,http://117.141.162.238:8181/tsfile/live/1025_1.m3u8
 吉林影视,http://175.30.226.24:10086/rtp/239.37.0.103:5540
 吉林东北,http://175.30.226.24:10086/rtp/239.37.0.109:5540
 吉林公共,http://175.30.226.24:10086/rtp/239.37.0.106:5540
