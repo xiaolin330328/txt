@@ -324,6 +324,35 @@ CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 
 
 香港直播源等影视资源分享交流群,#genera#
+凤凰中文台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰香港台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+TVBplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+ELTA娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+有线18,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+广电翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus01.flv
+Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+Now爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
+NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+Channel[V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+凤凰电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
