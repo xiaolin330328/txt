@@ -1,4 +1,12 @@
 我1
+VIUTV,http://cdn12.1678520.xyz/live/?id=viu
+Viu剧集台,http://cdn12.1678520.xyz/live/?id=viu2
+江苏国际,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
+江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
+江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
+江苏城市,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
+江苏教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSJY/G_JSJY.m3u8
+江苏影视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSYS/G_JSYS.m3u8
 CCTV1-综合,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
