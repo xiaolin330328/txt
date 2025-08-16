@@ -324,6 +324,7 @@ CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 
 
 香港直播源等影视资源分享交流群,#genera#
+港台,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 凤凰中文台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰香港台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
