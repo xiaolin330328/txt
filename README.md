@@ -1,12 +1,5 @@
 我1
-VIUTV,http://cdn12.1678520.xyz/live/?id=viu
-Viu剧集台,http://cdn12.1678520.xyz/live/?id=viu2
-江苏国际,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
-江苏综艺,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSZY/G_JSZY.m3u8
-江苏新闻,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSGG/G_JSGG.m3u8
-江苏城市,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSCS/G_JSCS.m3u8
-江苏教育,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSJY/G_JSJY.m3u8
-江苏影视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JSYS/G_JSYS.m3u8
+
 CCTV1-综合,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -189,9 +182,6 @@ CRT娱乐,http://175.30.226.24:10086/rtp/239.37.0.97:5540
 
 
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-湖南,http://ygbh.site/php/bfgd.php?id=086
-湖南,https://k44991.kylintv.tv/live/huntvhd_iphone.m3js
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
@@ -332,32 +322,7 @@ CCTV1,http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
 
 
 香港直播源等影视资源分享交流群,#genera#
-港台,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-凤凰中文台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰香港台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-TVBplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-ELTA娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-有线18,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-广电翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus01.flv
-Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
-Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
-Now爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
-NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
+VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 Channel[V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
