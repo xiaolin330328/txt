@@ -1,5 +1,13 @@
 我1
-
+彩虹1臺,http://live.urren.net/live/2a68eed638111de8ea919419475b2e50.flv
+彩虹2臺,http://live.urren.net/live/19b6d0b83edca3140fa5683fc3fbaf39.flv
+彩虹3臺,http://live.urren.net/live/4847e11ded9e50e0a1ee4ba9ee55f115.flv
+彩虹E臺,http://live.urren.net/live/f7450c557748bc13b5081bcaa90d0262.flv
+彩虹K臺,http://live.urren.net/live/38fef53aab8f99b1bb293a2ce6301900.flv
+彩虹电影,http://live.urren.net/live/5e6641135a3d7d6d9d6532502a2a63ca.flv
+彩虹多拉,http://live.urren.net/live/3f379f6d257e78f03ed13cbdccc77799.flv
+彩虹惊艳,http://live.urren.net/live/63aa3e9f70a69b7e643c822b26f92b7a.flv
+彩虹香蕉,http://live.urren.net/live/e96affd138ff8304b9753594b67ddb14.flv
 CCTV1-综合,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
