@@ -1,37 +1,4 @@
 我1
-
-【广东】佛山电信酒店源
-广东体育,http://124.108.6.20:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://124.108.6.20:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视音乐台,http://124.108.6.20:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片高清,http://124.108.6.20:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-半岛国际,http://124.108.6.20:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国EBS儿童,http://124.108.6.20:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国KBS朝鲜语,http://124.108.6.20:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-有效期：4天18号
-广东体育,http://124.108.6.20:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://124.108.6.20:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视音乐台,http://124.108.6.20:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片高清,http://124.108.6.20:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-半岛国际,http://124.108.6.20:85/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国EBS儿童,http://124.108.6.20:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国KBS朝鲜语,http://124.108.6.20:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://124.108.6.20:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://124.108.6.20:85/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视音乐台,http://124.108.6.20:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片高清,http://124.108.6.20:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-半岛国际,http://124.108.6.20:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国EBS儿童,http://124.108.6.20:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国KBS朝鲜语,http://124.108.6.20:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://124.108.6.20:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://124.108.6.20:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视音乐台,http://124.108.6.20:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片高清,http://124.108.6.20:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-半岛国际,http://124.108.6.20:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国EBS儿童,http://124.108.6.20:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-韩国KBS朝鲜语,http://124.108.6.20:85/tsfile/live/0145_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 极限,http://live.urren.net:80/live/7b27de1d7f1205a097376d818893d06f.flv
 happy,http://live.urren.net:80/live/8b070dfaa4d2b8cb59ee48cf42291737.flv
 香蕉,http://live.urren.net:80/live/85412568bda69955e81f50b48e13745b.flv
@@ -42,7 +9,7 @@ K频道,http://live.urren.net:80/live/7629dd7bc3b520adad508ffa3459d7d3.flv
 E频道,http://live.urren.net:80/live/4d1d8fefdf8bf159e95d568e1e5d121a.flv
 松视3,http://live.urren.net:80/live/aae1f6c6ce1349f275722f99b9d76fb9.flv
 松视1,http://live.urren.net:80/live/78fd444d03e3c96e086a5c272b6f427e.flv
-https://iptv.mydiver.eu.org/get.php?username=tg_4e9kep15&password=zjoqo9u1hrqz&type=m3u_plus
+上次,https://iptv.mydiver.eu.org/get.php?username=tg_4e9kep15&password=zjoqo9u1hrqz&type=m3u_plus
 CCTV-13,http://2099.tv12.xyz/775_1755531564332.m3u8
 CCTV-14,http://2099.tv12.xyz/776_1755531564332.m3u8
 CCTV-15,http://2099.tv12.xyz/777_1755531564332.m3u8
@@ -151,13 +118,13 @@ CCTV13,http://27.193.97.96:22222/rtp/239.253.254.34:8000
 
 广东卫视http://27.193.97.96:22222/rtp/239.253.254.39:8000
 
-http://27.193.97.96:22222/rtp/239.253.254.41:8000
+卫视,http://27.193.97.96:22222/rtp/239.253.254.41:8000
 
 河北卫视http://27.193.97.96:22222/rtp/239.253.254.43:8000
 
 河南卫视http://27.193.97.96:22222/rtp/239.253.254.44:8000
 
-http://27.193.97.96:22222/rtp/239.253.254.45:8000
+哇塞,http://27.193.97.96:22222/rtp/239.253.254.45:8000
 
 吉林卫视http://27.193.97.96:22222/rtp/239.253.254.46:8000
 
@@ -197,7 +164,7 @@ CETV1http://27.193.97.96:22222/rtp/239.253.254.55:8000
 
 嘉佳卡通http://27.193.97.96:22222/rtp/239.253.254.65:8000
 
-http://27.193.97.96:22222/rtp/239.253.254.66:8000
+找到,http://27.193.97.96:22222/rtp/239.253.254.66:8000
 
 海洋频道http://27.193.97.96:22222/rtp/239.253.254.67:8000
 
@@ -219,9 +186,6 @@ CCTV1http://27.193.97.96:22222/rtp/239.253.254.77:8000
 
 http://27.193.97.96:22222/rtp/239.253.254.79:8000
 
-http://27.193.97.96
-
-
 juli:
 CCTV13,http://cdn.jdshipin.com/dy.php?id=127453393722
 CCTV13,http://cdn.jdshipin.com/dy.php?id=870887192950
@@ -235,8 +199,40 @@ CCTV6,http://cdn.jdshipin.com/dy.php?id=208823316033
 第一财经,http://cdn.jdshipin.com/kdf.php?id=21
 上海都市,http://cdn.jdshipin.com/kdf.php?id=18
 五星体育,http://cdn.jdshipin.com/kdf.php?id=1605
-上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
+上海新纪实,http://cdn.jdshipin.com/kdf.php?id1600
 乐游,http://cdn.jdshipin.com/kdf.php?id=1745
+
+东方卫视,http://cdn.jdshipin.com/kdf.php?id=23
+上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=24
+第一财经,http://cdn.jdshipin.com/kdf.php?id=25
+上海都市,http://cdn.jdshipin.com/kdf.php?id=17
+五星体育,http://cdn.jdshipin.com/kdf.php?id=16
+上海新纪实,http://cdn.jdshipin.com/kdf.php?id15
+乐游,http://cdn.jdshipin.com/kdf.php?id=1746
+东方卫视,http://cdn.jdshipin.com/kdf.php?id=1747
+上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=1748
+第一财经,http://cdn.jdshipin.com/kdf.php?id=1751
+上海都市,http://cdn.jdshipin.com/kdf.php?id=1601
+五星体育,http://cdn.jdshipin.com/kdf.php?id=1602
+上海新纪实,http://cdn.jdshipin.com/kdf.php?id1603
+乐游,http://cdn.jdshipin.com/kdf.php?id=1606
+东方卫视,http://cdn.jdshipin.com/kdf.php?id=1608
+上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=11
+第一财经,http://cdn.jdshipin.com/kdf.php?id=12
+上海都市,http://cdn.jdshipin.com/kdf.php?id=19
+五星体育,http://cdn.jdshipin.com/kdf.php?id=8
+上海新纪实,http://cdn.jdshipin.com/kdf.php?id1611
+乐游,http://cdn.jdshipin.com/kdf.php?id=1750
+东方卫视,http://cdn.jdshipin.com/kdf.php?id=1735
+上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=1732
+第一财经,http://cdn.jdshipin.com/kdf.php?id=31
+上海都市,http://cdn.jdshipin.com/kdf.php?id=32
+五星体育,http://cdn.jdshipin.com/kdf.php?id=33
+上海新纪实,http://cdn.jdshipin.com/kdf.php?id1620
+乐游,http://cdn.jdshipin.com/kdf.php?id=1755
+
+
+
 
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 上海新闻综合,http://cdn.jdshipin.com/kkxw.php?id=2
