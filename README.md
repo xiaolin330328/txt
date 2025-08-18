@@ -1,6 +1,6 @@
 我1
-
-涓枃,http://iptv.4666888.xyz/iptv.php?id=20060
+文艺,https://os.318151.xyz/live/movie.m3u8
+涓枃,http://os.318151.xyz/iptv.php?id=20060
 鍑ゅ嚢璧勮,http://iptv.4666888.xyz/iptv.php?id=20061
 鍑ゅ嚢棣欐腐,http://iptv.4666888.xyz/iptv.php?id=20062
 鍑ゅ嚢涓枃,http://iptv.4666888.xyz/iptv.php?id=20063
