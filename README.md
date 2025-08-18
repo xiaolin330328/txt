@@ -1,6 +1,5 @@
 我1
-星耀,http://push-rtmp-hs-spe-f5.douyincdn.com/live/9kFYlsTAu8ScEZ4p2mWrkrHXa1Mu5yhBJ4DdZuc4EmzvaRJZfF.flv
-星钰,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnvaRJZ1EgdRk.flv
+
 
 山东联通,http://112.226.105.163:4000/rtp/239.253.254.233:8000
 
