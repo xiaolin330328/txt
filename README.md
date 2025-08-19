@@ -1,4 +1,14 @@
 我1
+极限,http://live.urren.net:80/live/60e3c3e7b81accd3015d17ed4e14ee75.flv
+happy,http://live.urren.net:80/live/168ea077f852ea59496504ca32619ee2.flv
+香蕉,http://live.urren.net:80/live/4cfb5eda408c20026ca6fb9246bc73cc.flv
+惊艳,http://live.urren.net:80/live/8229d3ca326a5035d3ed3afa47ae1b55.flv
+潘朵拉,http://live.urren.net:80/live/1f6f6bb3ce051fc758abc2ad64ffa2e8.flv
+彩虹电影,http://live.urren.net:80/live/988106c1a0528d23a46728b78a4e87e1.flv
+K频道,http://live.urren.net:80/live/3e76fb235b043b6b29805442f273b997.flv
+E频道,http://live.urren.net:80/live/e1f980c32af3a34581451d78a88fb497.flv
+松视3,http://live.urren.net:80/live/06b6cb9106a9123413b7c0907496ac95.flv
+松视1,http://live.urren.net:80/live/f5d35b1635fc3b3edff3fc179b2d5993.flv
 genre#
 中天新闻,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv009
 TVBS新闻,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv072
