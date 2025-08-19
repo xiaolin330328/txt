@@ -85,7 +85,7 @@ CGTN[768*576],https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 动漫,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
-娉曟不澶╁湴[192
+
 法治天地https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
 娓告垙椋庝簯[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
