@@ -1,4 +1,16 @@
 我1
+极限,http://live.urren.net:80/live/e85b8d1574454fca4781cccf160e1be6.flv
+happy,http://live.urren.net:80/live/2159a164fb0b6c8d22f04138e053fe81.flv
+香蕉,http://live.urren.net:80/live/a056379fe21036c7c56cf6c79d54e746.flv
+惊艳,http://live.urren.net:80/live/405cc8facee4b4ad707c0b8f6ff0d275.flv
+潘朵拉,http://live.urren.net:80/live/0c3d550bcea66983ce11bca0bbbca261.flv
+彩虹电影,http://live.urren.net:80/live/864190acc50890e85c9297aef7884051.flv
+K频道,http://live.urren.net:80/live/2a34ec2d94a10c808d4aa7a4605a3be3.flv
+E频道,http://live.urren.net:80/live/84b5fb4dcd5343bfeacb42db9701cb95.flv
+松视3,http://live.urren.net:80/live/463c3e2c7909f41fb236f3c9ffabafa7.flv
+松视1,http://live.urren.net:80/live/ae7bcc5f33dc6ebd2ddcf5020e4d5a4c.flv
+
+福利来了
 山东卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
 CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
