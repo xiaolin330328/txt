@@ -1,4 +1,8 @@
 我1
+卫视,http://120.76.248.139/live/bfgd/4200000111.m3u
+卫视,http://120.76.248.139/live/bfgd/4200000112.m3u
+卫视,http://120.76.248.139/live/bfgd/4200000113.m3u
+卫视,http://120.76.248.139/live/bfgd/4200000114.m3u
 极限,http://live.urren.net:80/live/e85b8d1574454fca4781cccf160e1be6.flv
 happy,http://live.urren.net:80/live/2159a164fb0b6c8d22f04138e053fe81.flv
 香蕉,http://live.urren.net:80/live/a056379fe21036c7c56cf6c79d54e746.flv
