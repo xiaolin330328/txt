@@ -1,5 +1,17 @@
 我1
 【广东】中山电信
+极限,http://live.urren.net:80/live/87b0b2b1075ad0315a092d5dc171fba0.flv
+happy,http://live.urren.net:80/live/9974bfd068fbd118d793b61658023194.flv
+香蕉,http://live.urren.net:80/live/b11869456bd5333dd5562f199be51c94.flv
+惊艳,http://live.urren.net:80/live/230d91a7ec150e478dc7ce76446b03b0.flv
+潘朵拉,http://live.urren.net:80/live/f3a075dd1a2347a1495d03906547e9c9.flv
+彩虹电影,http://live.urren.net:80/live/9af36e8fed1d36b53a63850d937269f8.flv
+K频道,http://live.urren.net:80/live/0102d91e96e10b4602331499ab7707c0.flv
+E频道,http://live.urren.net:80/live/42e9d40ca83f1c4264c5e15f3a8b8b9d.flv
+松视3,http://live.urren.net:80/live/31e17e997b891e5e6f01fdd44376c33e.flv
+松视1,http://live.urren.net:80/live/2641434c48e9f96aa125695dd60dad6f.flv
+
+试下能不能播，时效福利
 广州南国都市超高清,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
 惠州综合高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
 惠州公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.233:5146
