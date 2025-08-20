@@ -1,35 +1,17 @@
 我1
+山东卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
 CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CCTV风云剧场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 【广东】中山电信
-极限,http://live.urren.net:80/live/87b0b2b1075ad0315a092d5dc171fba0.flv
-happy,http://live.urren.net:80/live/9974bfd068fbd118d793b61658023194.flv
-香蕉,http://live.urren.net:80/live/b11869456bd5333dd5562f199be51c94.flv
-惊艳,http://live.urren.net:80/live/230d91a7ec150e478dc7ce76446b03b0.flv
-潘朵拉,http://live.urren.net:80/live/f3a075dd1a2347a1495d03906547e9c9.flv
-彩虹电影,http://live.urren.net:80/live/9af36e8fed1d36b53a63850d937269f8.flv
-K频道,http://live.urren.net:80/live/0102d91e96e10b4602331499ab7707c0.flv
-E频道,http://live.urren.net:80/live/42e9d40ca83f1c4264c5e15f3a8b8b9d.flv
-松视3,http://live.urren.net:80/live/31e17e997b891e5e6f01fdd44376c33e.flv
-松视1,http://live.urren.net:80/live/2641434c48e9f96aa125695dd60dad6f.flv
-
 广州南国都市超高清,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
 惠州综合高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
 惠州公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.233:5146
 揭阳生活高清,http://ddns.cyruslee.top:8888/udp/239.77.0.251:5146
 宝安第一课,http://ddns.cyruslee.top:8888/udp/239.77.1.225:5146
 有效期:  95天
-【河南】驻马店联通
-驻马店新闻综合高清,http://ik6.iptv8.net:8888/udp/225.1.4.132:1168
-驻马店科教高清,http://ik6.iptv8.net:8888/udp/225.1.4.133:1169
-驻马店公共高清,http://ik6.iptv8.net:8888/udp/225.1.4.136:1172
-西平综合,http://ik6.iptv8.net:8888/udp/225.1.5.28:1340
-新蔡综合,http://ik6.iptv8.net:8888/udp/225.1.5.29:1341
-河南4K超高清,http://ik6.iptv8.net:8888/udp/225.1.4.254:1300
-河南IPTV导视,http://ik6.iptv8.net:8888/udp/225.1.4.194:1244
-有效期:  52天
+
 
 凤凰卫视台,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰咨询台,http://iptv.4666888.xyz/iptv.php?id=20061
