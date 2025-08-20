@@ -30,7 +30,7 @@ E频道,http://live.urren.net:80/live/42e9d40ca83f1c4264c5e15f3a8b8b9d.flv
 凤凰卫视台,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰咨询台,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰香港台,http://iptv.4666888.xyz/iptv.php?id=20062
-鍑ゅ嚢涓枃,http://iptv.4666888.xyz/iptv.php?id=20063
+鍑ゅ嚢涓枃,http://iptv.4666888.xyz/Smart.php?id=meiyamovie_twn
 鍑ゅ嚢璧勮,http://iptv.4666888.xyz/iptv.php?id=20064
 凤凰香港台,http://iptv.4666888.xyz/iptv.php?id=20065
 缈＄繝,http://iptv.4666888.xyz/iptv.php?id=20066
