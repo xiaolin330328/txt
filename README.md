@@ -1,8 +1,8 @@
 我1
-卫视,http://120.76.248.139/live/bfgd/4200000111.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000112.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000113.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000114.m3u
+卫视,http://120.76.248:139/live/bfgd/4200000111.m3u
+卫视,http://120.76.248:139/live/bfgd/4200000112.m3u
+卫视,http://120.76.248:139/live/bfgd/4200000113.m3u
+卫视,http://120.76.248:139/live/bfgd/4200000114.m3u
 极限,http://live.urren.net:80/live/e85b8d1574454fca4781cccf160e1be6.flv
 happy,http://live.urren.net:80/live/2159a164fb0b6c8d22f04138e053fe81.flv
 香蕉,http://live.urren.net:80/live/a056379fe21036c7c56cf6c79d54e746.flv
@@ -14,10 +14,10 @@ E频道,http://live.urren.net:80/live/84b5fb4dcd5343bfeacb42db9701cb95.flv
 松视3,http://live.urren.net:80/live/463c3e2c7909f41fb236f3c9ffabafa7.flv
 松视1,http://live.urren.net:80/live/ae7bcc5f33dc6ebd2ddcf5020e4d5a4c.flv
 
-福利来了
-山东卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+
+
 CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__ci/cg:live/_c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CCTV风云剧场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 【广东】中山电信
