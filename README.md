@@ -1,4 +1,24 @@
 我1
+【广东】中山电信
+广州南国都市超高清,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
+惠州综合高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
+惠州公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.233:5146
+揭阳生活高清,http://ddns.cyruslee.top:8888/udp/239.77.0.251:5146
+宝安第一课,http://ddns.cyruslee.top:8888/udp/239.77.1.225:5146
+有效期:  95天
+【河南】驻马店联通
+驻马店新闻综合高清,http://ik6.iptv8.net:8888/udp/225.1.4.132:1168
+驻马店科教高清,http://ik6.iptv8.net:8888/udp/225.1.4.133:1169
+驻马店公共高清,http://ik6.iptv8.net:8888/udp/225.1.4.136:1172
+西平综合,http://ik6.iptv8.net:8888/udp/225.1.5.28:1340
+新蔡综合,http://ik6.iptv8.net:8888/udp/225.1.5.29:1341
+河南4K超高清,http://ik6.iptv8.net:8888/udp/225.1.4.254:1300
+河南IPTV导视,http://ik6.iptv8.net:8888/udp/225.1.4.194:1244
+有效期:  52天
+四川卫视,https://mursor.ottiptv.cc/mcp/sichuan.m3u8
+文,http://ip:port/newlive/live/hls/1/live.m3u8
+玩,http://ip:port/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+无,http://ip:port/hls/1/index.m3u8
 极限,http://live.urren.net:80/live/60e3c3e7b81accd3015d17ed4e14ee75.flv
 happy,http://live.urren.net:80/live/168ea077f852ea59496504ca32619ee2.flv
 香蕉,http://live.urren.net:80/live/4cfb5eda408c20026ca6fb9246bc73cc.flv
