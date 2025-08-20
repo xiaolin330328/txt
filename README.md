@@ -1,4 +1,8 @@
 我1
+CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CCTV风云剧场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 【广东】中山电信
 极限,http://live.urren.net:80/live/87b0b2b1075ad0315a092d5dc171fba0.flv
 happy,http://live.urren.net:80/live/9974bfd068fbd118d793b61658023194.flv
