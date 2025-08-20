@@ -11,7 +11,6 @@ E频道,http://live.urren.net:80/live/42e9d40ca83f1c4264c5e15f3a8b8b9d.flv
 松视3,http://live.urren.net:80/live/31e17e997b891e5e6f01fdd44376c33e.flv
 松视1,http://live.urren.net:80/live/2641434c48e9f96aa125695dd60dad6f.flv
 
-试下能不能播，时效福利
 广州南国都市超高清,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
 惠州综合高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
 惠州公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.233:5146
@@ -82,12 +81,12 @@ MYTV_SUPER灏戝効,http://iptv.4666888.xyz/iptv.php?id=20110
 MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
 MYTV_SUPER绮よ鐗�,http://iptv.4666888.xyz/iptv.php?id=20112
 MYTV_SUPER鎴忔洸,http://iptv.4666888.xyz/iptv.php?id=20113
-澶╂槧缁忓吀,http://iptv.4666888.xyz/iptv.php?id=20114
-澶╂槧缁忓吀2,http://iptv.4666888.xyz/iptv.php?id=20115
-澶╂槧棰戦亾,http://iptv.4666888.xyz/iptv.php?id=20116
+八度空间,http://iptv.4666888.xyz/iptv.php?id=20114
+天映频道2,http://iptv.4666888.xyz/iptv.php?id=20115
+天映频道,http://iptv.4666888.xyz/iptv.php?id=20116
 澶╂槧棰戦亾2,http://iptv.4666888.xyz/iptv.php?id=20117
 PopC鐢靛奖,http://iptv.4666888.xyz/iptv.php?id=20118
-鍒涗笘鐢佃,http://iptv.4666888.xyz/iptv.php?id=20119
+创世电视,http://iptv.4666888.xyz/iptv.php?id=20119
 缇庝簹鐢靛奖(娓�),http://iptv.4666888.xyz/iptv.php?id=20120
 鏄熷厜瑙嗙晫,http://iptv.4666888.xyz/iptv.php?id=20121
 閲嶆俯缁忓吀,http://iptv.4666888.xyz/iptv.php?id=20122
@@ -96,11 +95,11 @@ PopC鐢靛奖,http://iptv.4666888.xyz/iptv.php?id=20118
 鏃犵嚎18璧涢┈,http://iptv.4666888.xyz/iptv.php?id=20125
 28AI璧涢┈,http://iptv.4666888.xyz/iptv.php?id=20126
 婢宠婢抽棬,http://iptv.4666888.xyz/iptv.php?id=20127
-婢抽棬Macau,http://iptv.4666888.xyz/iptv.php?id=20128
-婢抽棬璧勮,http://iptv.4666888.xyz/iptv.php?id=20129
-婢抽棬鑾茶姳,http://iptv.4666888.xyz/iptv.php?id=20130
-婢抽棬浣撹偛,http://iptv.4666888.xyz/iptv.php?id=20131
-澶╂槧CM+,http://iptv.4666888.xyz/iptv.php?id=20132
+澳门卫视,http://iptv.4666888.xyz/iptv.php?id=20128
+澳门咨询台,http://iptv.4666888.xyz/iptv.php?id=20129
+澳门电视,http://iptv.4666888.xyz/iptv.php?id=20130
+澳门体育,http://iptv.4666888.xyz/iptv.php?id=20131
+澳门综艺,http://iptv.4666888.xyz/iptv.php?id=20132
 TVB-EYT,http://iptv.4666888.xyz/iptv.php?id=20133
 TVB-Music,http://iptv.4666888.xyz/iptv.php?id=20134
 TVB-Sports,http://iptv.4666888.xyz/iptv.php?id=20135
@@ -121,7 +120,7 @@ Hub閮戒細,http://iptv.4666888.xyz/iptv.php?id=20288
 TVBS鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20168
 涓夌珛鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20169
 涓夌珛iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170
-涓鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20171
+中视新闻台,http://iptv.4666888.xyz/iptv.php?id=20171
 鍙拌鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20172
 涓ぉ鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20173
 涓滄．鏂伴椈,http://iptv.4666888.xyz/iptv.php?id=20174
