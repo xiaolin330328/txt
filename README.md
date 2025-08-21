@@ -1,28 +1,48 @@
 我1
+1. 极限,http://live.urren.net:80/live/9fed08a027b7b5125835fda76329852b.flv
+2. 快乐,http://live.urren.net:80/live/29b18d5d2d8b7f59dd1bb7b2ea9c80ee.flv
+3. 香蕉,http://live.urren.net:80/live/5a42abde24606efe64f0df65f7a2e0b7.flv
+4. 惊艳,http://live.urren.net:80/live/c27d9e5ac4cd9ff42c5be32fbc1a05b8.flv
+5. 潘多拉,http://live.urren.net:80/live/dd4443a22ca57b95cfe375065f80ba4c.flv
+6. 彩虹电影,http://live.urren.net:80/live/61fcfc8619b3e9eeb692c56fb0e00ca7.flv
+7. K,http://live.urren.net:80/live/31fe631031934d5d41cde6ac3f9e0ffd.flv
+8. E,http://live.urren.net:80/live/2afac70c970a6f675c06aef01373bd35.flv
+9. 松视3,http://live.urren.net:80/live/3cd3fc2d3383d540f88e0ca52665acfe.flv
+10. 松视1,http://live.urren.net:80/live/cd9ca34855ee6f0c1a48d61e68ba7d5a.flv
+juli:
+CCTV2,http://cdn.jdshipin.com/cctv2.php
 
+o11v4字幕测试：
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+黄金华剧台,https://o11.163189.xyz/stream/tvb/hjhjt/
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u
-安徽卫视,http://120.76.248.139/live/bfgd/4200000473.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000112.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000113.m3u
-卫视,http://120.76.248.139/live/bfgd/4200000114.m3u
-极限,http://live.urren.net:80/live/e85b8d1574454fca4781cccf160e1be6.flv
-happy,http://live.urren.net:80/live/2159a164fb0b6c8d22f04138e053fe81.flv
-香蕉,http://live.urren.net:80/live/a056379fe21036c7c56cf6c79d54e746.flv
-惊艳,http://live.urren.net:80/live/405cc8facee4b4ad707c0b8f6ff0d275.flv
-潘朵拉,http://live.urren.net:80/live/0c3d550bcea66983ce11bca0bbbca261.flv
-彩虹电影,http://live.urren.net:80/live/864190acc50890e85c9297aef7884051.flv
-K频道,http://live.urren.net:80/live/2a34ec2d94a10c808d4aa7a4605a3be3.flv
-E频道,http://live.urren.net:80/live/84b5fb4dcd5343bfeacb42db9701cb95.flv
-松视3,http://live.urren.net:80/live/463c3e2c7909f41fb236f3c9ffabafa7.flv
-松视1,http://live.urren.net:80/live/ae7bcc5f33dc6ebd2ddcf5020e4d5a4c.flv
-
-
-
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
+安徽卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
+厦门卫视,http://ik.zjx5106.xyz:8001/udp/239.81.0.212:4056
+兵团卫视,http://ik.zjx5106.xyz:8001/udp/239.81.0.213:4056
+金鹰纪实,http://ik.zjx5106.xyz:8001/udp/239.81.0.91:4056
+金鹰卡通,http://ik.zjx5106.xyz:8001/udp/239.81.0.148:4056
+CETV-1,http://ik.zjx5106.xyz:8001/udp/239.81.0.92:4056
+CETV-2,http://ik.zjx5106.xyz:8001/udp/239.81.0.245:4056
+CETV-4,http://ik.zjx5106.xyz:8001/udp/239.81.0.188:4056
+求索纪实,http://ik.zjx5106.xyz:8001/udp/239.81.0.153:4056
+科教纪实,http://ik.zjx5106.xyz:8001/udp/239.81.0.195:4056
+CHC家庭影院,http://ik.zjx5106.xyz:8001/udp/239.81.0.238:4056
+CHC影迷电影,http://ik.zjx5106.xyz:8001/udp/239.81.0.240:4056
+CHC动作电影,http://ik.zjx5106.xyz:8001/udp/239.81.0.239:4056
+CCTV16-4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.144:4056
+CCTV4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.196:4056
+北京卫视4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.225:4056
+北京卫视4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.226:4056
+广东卫视4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.252:4056
+深圳卫视4K,http://ik.zjx5106.xyz:8001/udp/239.81.0.254:4056
 CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__ci/cg:live/_c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CCTV风云剧场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+
 【广东】中山电信
 广州南国都市超高清,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
 惠州综合高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
