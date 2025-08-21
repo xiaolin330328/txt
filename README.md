@@ -1,36 +1,195 @@
 我1
-美亚电影,https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1753977057&token=5a944f62e77bd370d9fc3106c1399541
-美亚電影台,https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E9%9B%BB%E5%BD%B1%E5%8F%B0&t=1753977057&token=ecccb05ad8a1c09110ff721bebf5f89f
-美食星球,https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&t=1753977057&token=6993583a3af093a2754f9fab0c7d0ca8
-翡翠,https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0&t=1753977057&token=8744634ec334c9d5ba7e5e6f9b7eca82
-翡翠台,https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1753977057&token=f4f66ae8412db8b0cf38f718da3a4006
-翡翠台北美版(TVB J1),https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1753977057&token=7f9fc2e648109178f9b423c6c671ea42
-華視,https://stream.iptv-search.com/main.php?id=%E8%8F%AF%E8%A6%96&t=1753977057&token=58635831abf742b84cc8467d55286db4
-重温经典,https://stream.iptv-search.com/main.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&t=1753977057&token=9e5816180c354e85e37f3341665b99fe
-阿里郎 Arirang,https://stream.iptv-search.com/main.php?id=%E9%98%BF%E9%87%8C%E9%83%8E+Arirang&t=1753977057&token=0df9586273c0896f3c8285d47ab84e0d
-靖天卡通,https://stream.iptv-search.com/main.php?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A&t=1753977057&token=85aa431389960832570db75ecb6963b0
-靖天卡通台,https://stream.iptv-search.com/main.php?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&t=1753977057&token=def34364f9a977e3fb3ddc0a502e33d2
-靖天国际,https://stream.iptv-search.com/main.php?id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85&t=1753977057&token=0f536edbbdeae23f52951d554ef4671b
-澳视澳门台,https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8%E5%8F%B0&t=1753977057&token=a71f9d6c59f210c2c5a306b6afeb1c6d
-澳视葡文台,https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E8%91%A1%E6%96%87%E5%8F%B0&t=1753977057&token=ecf0aee7df4b432b7755e0f4eafaeae8
-澳视资讯台,https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0&t=1753977057&token=20610b0538073aa0c7cffba6d6688f0d
-爱奇艺,https://stream.iptv-search.com/main.php?id=%E7%88%B1%E5%A5%87%E8%89%BA&t=1753977057&token=858efa887c690c5f9a599f2d415103ad
-爱尔达影剧台,https://stream.iptv-search.com/main.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E5%BD%B1%E5%89%A7%E5%8F%B0&t=1753977057&token=7c480bd9a9bc7fbb434ab1a19d0e2423
-环球电视,https://stream.iptv-search.com/main.php?id=%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86&t=1753977057&token=7aac04116d07cfab01bbdf5f5d764224
-珍珠台,https://stream.iptv-search.com/main.php?id=%E7%8F%8D%E7%8F%A0%E5%8F%B0&t=1753977057&token=c422aa98edb7d2b767483a233da2ceb4
-生命电视,https://stream.iptv-search.com/main.php?id=%E7%94%9F%E5%91%BD%E7%94%B5%E8%A7%86&t=1753977057&token=348f7b7207d828a77ffc9276fdf65b42
-番薯台,https://stream.iptv-search.com/main.php?id=%E7%95%AA%E8%96%AF%E5%8F%B0&t=1753977057&token=82b5f608a7a6ff07910875b49c4246e3
-緯來戲劇,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E6%88%B2%E5%8A%87&t=1753977057&token=7f0ff7336e8bcfe0ec2566995d9610f2
-緯來日本,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E6%97%A5%E6%9C%AC&t=1753977057&token=a3755d777e0ae4cc13cc6b960e93237f
-緯來綜合,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88&t=1753977057&token=1c48606abb3e4b056070e33ff5e35a69
-緯來電影,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&t=1753977057&token=cc705c0cc6efc6fb573b57f04978ad1b
-緯來體育,https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2&t=1753977057&token=cd574ba83330f2eeea4366ba7937a71d
-纬来体育台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0&t=1753977057&token=411cde5fa1e70ad9e062bc5c1e8df27a
-纬来日本台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0&t=1753977057&token=600b7049df34f6784ad2f81db5b58789
-纬来电影台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1753977057&token=d9648af1de308641eca855f9c3b8cee9
-纬来精彩,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&t=1753977057&token=6bd8dbc2298f607181d6d49e703366e5
-纬来综合台,https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88%E5%8F%B0&t=1753977057&token=fb9a4b3a683f1ea81272aff515d5817c
-美亚C+,https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9AC%2B&t=1753977057&token=f902e9ee75e33fd4dad74d70af7402e3
+【山东】济南联通
+济南新闻综合高清,http://home.yinjunsheng.top:8888/udp/239.253.242.254:8000
+济南少儿,http://home.yinjunsheng.top:8888/udp/239.253.242.252:8000
+济南生活,http://home.yinjunsheng.top:8888/udp/239.253.242.251:8000
+济南娱乐,http://home.yinjunsheng.top:8888/udp/239.253.242.250:8000
+济南文旅体育,http://home.yinjunsheng.top:8888/udp/239.253.242.249:8000
+济南都市,http://home.yinjunsheng.top:8888/udp/239.253.242.248:8000
+济南鲁中,http://home.yinjunsheng.top:8888/udp/239.253.242.244:8000
+济南教育高清,http://home.yinjunsheng.top:8888/udp/239.253.242.246:8000
+平阴综合,http://home.yinjunsheng.top:8888/udp/239.253.242.247:8000
+济阳综合,http://home.yinjunsheng.top:8888/udp/239.253.242.245:8000
+长清综合,http://home.yinjunsheng.top:8888/udp/239.253.242.242:8000
+章丘综合,http://home.yinjunsheng.top:8888/udp/239.253.242.241:8000
+商河综合,http://home.yinjunsheng.top:8888/udp/239.253.242.240:8000
+
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=92f0a509fcd0ce2381d7fcc854418b04
+
+2025-08-21 中国大陆
+
+湖南爱晚
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
+
+2025-08-21 中国大陆
+
+湖南电影
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&t=1755401429&token=353974468c640862de1993fa7677f48b
+
+2025-08-21 中国大陆
+
+湖南电视剧
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
+
+2025-08-21 中国大陆
+
+湖南都市
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&t=1755401429&token=09565cec19832997d75ec17112d3d79e
+
+2025-08-21 中国大陆
+
+湖南卫视
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=92f0a509fcd0ce2381d7fcc854418b04
+
+2025-08-20 中国大陆
+
+湖南爱晚
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
+
+2025-08-20 中国大陆
+
+湖南电影
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&t=1755401429&token=353974468c640862de1993fa7677f48b
+
+2025-08-20 中国大陆
+
+湖南电视剧
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
+
+2025-08-20 中国大陆
+
+湖南都市
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&t=1755401429&token=09565cec19832997d75ec17112d3d79e
+
+2025-08-20 中国大陆
+
+湖南卫视
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=92f0a509fcd0ce2381d7fcc854418b04
+
+2025-08-19 中国大陆
+
+湖南爱晚
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
+
+2025-08-19 中国大陆
+
+湖南电影
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&t=1755401429&token=353974468c640862de1993fa7677f48b
+
+2025-08-19 中国大陆
+
+湖南电视剧
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
+
+2025-08-19 中国大陆
+
+湖南都市
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&t=1755401429&token=09565cec19832997d75ec17112d3d79e
+
+2025-08-19 中国大陆
+
+湖南卫视
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=92f0a509fcd0ce2381d7fcc854418b04
+
+2025-08-18 中国大陆
+
+湖南爱晚
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
+
+2025-08-18 中国大陆
+
+湖南电影
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&t=1755401429&token=353974468c640862de1993fa7677f48b
+
+2025-08-18 中国大陆
+
+湖南电视剧
+
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
+
+2025-08-18 中国大陆
+
+湖南都市,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&t=1755401429&token=09565cec19832997d75ec17112d3d79e
+
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1755401429&token=6b81235dfc9df2206ec7cba1217dba0a
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1755401429&token=8c053f64e9d829d6adaf2c41a6e0cc7d
+
+
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1755401429&token=ae64e5ee489032bb89286627b2a5b993
+
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1755401429&token=6b81235dfc9df2206ec7cba1217dba0a
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1755401429&token=8c053f64e9d829d6adaf2c41a6e0cc7d
+
+
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1755401429&token=ae64e5ee489032bb89286627b2a5b993
+
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1755401429&token=6b81235dfc9df2206ec7cba1217dba0a
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1755401429&token=8c053f64e9d829d6adaf2c41a6e0cc7d
+
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1755401429&token=ae64e5ee489032bb89286627b2a5b993
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1755401429&token=6b81235dfc9df2206ec7cba1217dba0a
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1755401429&token=8c053f64e9d829d6adaf2c41a6e0cc7d
+
+
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1755401429&token=ae64e5ee489032bb89286627b2a5b993
+
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1753977057&token=7125a622d914783e8032d443c271af8b
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1753977057&token=041c317661bbb8afd17593d518f02fa1
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1753977057&token=645d3b81d375131c9b8412e4ca254097
+
+
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1753977057&token=7125a622d914783e8032d443c271af8b
+
+
+
+天津新闻,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1753977057&token=041c317661bbb8afd17593d518f02fa1
+
+
+天津都市,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82&t=1753977057&token=645d3b81d375131c9b8412e4ca254097
+
+
+
+天津卫视,https://stream.iptv-search.com/main.php
+id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1753977057&token=7125a622d914783e8032d443c271af8b
+
+
+天津新闻,https://stream.iptv-search.com/main.phpid=%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB&t=1753977057&token=041c317661bbb8afd17593d518f02fa1
+
+
+有效期：57天
 龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
 Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
 Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
