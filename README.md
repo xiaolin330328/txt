@@ -1,16 +1,17 @@
 我1
-
-1. 极限,http://live.urren.net:80/live/9fed08a027b7b5125835fda76329852b.flv
-2. 快乐,http://live.urren.net:80/live/29b18d5d2d8b7f59dd1bb7b2ea9c80ee.flv
-3. 香蕉,http://live.urren.net:80/live/5a42abde24606efe64f0df65f7a2e0b7.flv
-4. 惊艳,http://live.urren.net:80/live/c27d9e5ac4cd9ff42c5be32fbc1a05b8.flv
-5. 潘多拉,http://live.urren.net:80/live/dd4443a22ca57b95cfe375065f80ba4c.flv
-6. 彩虹电影,http://live.urren.net:80/live/61fcfc8619b3e9eeb692c56fb0e00ca7.flv
-7. K,http://live.urren.net:80/live/31fe631031934d5d41cde6ac3f9e0ffd.flv
-8. E,http://live.urren.net:80/live/2afac70c970a6f675c06aef01373bd35.flv
-9. 松视3,http://live.urren.net:80/live/3cd3fc2d3383d540f88e0ca52665acfe.flv
-10. 松视1,http://live.urren.net:80/live/cd9ca34855ee6f0c1a48d61e68ba7d5a.flv
-
+龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
+Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
+Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
+极限,http://live.urren.net:80/live/ca992f0f5fb2b7c99a823177308bd3b4.flv
+happy,http://live.urren.net:80/live/1cb427581f3c8587bd1b9cf83ba27010.flv
+香蕉,http://live.urren.net:80/live/6ce91366a71c01c7c8e2c41e51a8590f.flv
+惊艳,http://live.urren.net:80/live/40e271fa6d2269a61091a3c3ce56f154.flv
+潘朵拉,http://live.urren.net:80/live/efeba952987b3386cea51bb8de5b5163.flv
+彩虹电影,http://live.urren.net:80/live/1a3379adcd24608e4095f4648b59a24a.flv
+K频道,http://live.urren.net:80/live/f6138882f73fe5fe44bd4cde6396520a.flv
+E频道,http://live.urren.net:80/live/a178f2d2b03ffbb5feeae97f41217dd8.flv
+松视3,http://live.urren.net:80/live/fb8b44b311f9d73be1d0c91e93c5fd16.flv
+松视1,http://live.urren.net:80/live/6de9a8c5d19ba3b606b6265f419df847.flv
 
 o11v4字幕测试：
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
