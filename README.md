@@ -1,4 +1,11 @@
 我1
+【云南】临沧电信
+保山新闻综合,http://gen8.cc:5555/udp/239.200.200.121:8400
+保山经济生活,http://gen8.cc:5555/udp/239.200.200.120:8401
+保山影视,http://gen8.cc:5555/udp/239.200.200.169:8402
+昌宁综合,http://gen8.cc:5555/udp/udp/239.200.201.53:8274
+澄江综合,http://gen8.cc:5555/udp/239.200.201.196:8548
+有效期： 44天
 1. 极限,http://live.urren.net:80/live/9fed08a027b7b5125835fda76329852b.flv
 2. 快乐,http://live.urren.net:80/live/29b18d5d2d8b7f59dd1bb7b2ea9c80ee.flv
 3. 香蕉,http://live.urren.net:80/live/5a42abde24606efe64f0df65f7a2e0b7.flv
