@@ -13,9 +13,9 @@
 长清综合,http://home.yinjunsheng.top:8888/udp/239.253.242.242:8000
 章丘综合,http://home.yinjunsheng.top:8888/udp/239.253.242.241:8000
 商河综合,http://home.yinjunsheng.top:8888/udp/239.253.242.240:8000
-山东卫视,http://home.yinjunsheng.top:8888/udp/239.253.254.2:8000
-深圳卫视,http://home.yinjunsheng.top:8888/udp/239.253.254.61:8000
-吉林卫视,http://home.yinjunsheng.top:8888/udp/239.253.254.46:8000
+山东卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.230:8000
+深圳卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.261:8000
+吉林卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.146:8000
 
 湖南爱晚,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
 湖南电视剧,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
