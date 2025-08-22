@@ -24,6 +24,7 @@
 龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
 Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
 Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
+http://live.urren.net:80/live/8c4c749c1fe5192f68b7e59f90ee8470.flv
 极限,http://live.urren.net:80/live/ca992f0f5fb2b7c99a823177308bd3b4.flv
 happy,http://live.urren.net:80/live/1cb427581f3c8587bd1b9cf83ba27010.flv
 香蕉,http://live.urren.net:80/live/6ce91366a71c01c7c8e2c41e51a8590f.flv
