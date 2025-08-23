@@ -9,10 +9,10 @@
 四川经济,http://222.214.208.34:59901/tsfile/live/0018_1.m3u8?key=txiptv
 文化旅游,http://222.214.208.34:59901/tsfile/live/1001_1.m3u8?key=txiptv
 新闻频道,http://222.214.208.34:59901/tsfile/live/1003_1.m3u8?key=txiptv
-卡酷动画,http://222.214.208.34:59901/tsfile/live/0131_1.m3u8?key=txiptv
-优漫卡通,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8?key=txiptv
-金鹰卡通2,http://222.214.208.34:59901/tsfile/live/0133_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv
+山东卫视,http://222.214.208.34:59901/tsfile/live/0131_1.m3u8?key=txiptv
+湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8?key=txiptv
+金鹰卡通2,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv
+重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
