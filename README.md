@@ -1,4 +1,7 @@
 我1
+炫动卡通,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8?key=txiptv
+嘉佳卡通,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
+上川卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
 炫动卡通,http://222.214.208.34:59901/tsfile/live/0022_1.m3u8?key=txiptv
 嘉佳卡通,http://222.214.208.34:59901/tsfile/live/0025_1.m3u8?key=txiptv
 四川卫视,http://222.214.208.34:59901/tsfile/live/0017_1.m3u8?key=txiptv
