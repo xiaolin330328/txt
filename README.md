@@ -2,8 +2,8 @@
 炫动卡通,http://222.214.208.34:59901/tsfile/live/0121_1.m3u8?key=txiptv
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
 11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
-炫动卡通,http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv
-嘉佳卡通,http://222.214.208.34:59901/tsfile/live/0135_1.m3u8?key=txiptv
+北京卫视,http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv
+天津卫视,http://222.214.208.34:59901/tsfile/live/0135_1.m3u8?key=txiptv
 四川卫视,http://222.214.208.34:59901/tsfile/live/0017_1.m3u8?key=txiptv
 影视文艺,http://222.214.208.34:59901/tsfile/live/faacts/1014_1.m3u8?key=txiptv
 四川经济,http://222.214.208.34:59901/tsfile/live/0018_1.m3u8?key=txiptv
@@ -12,7 +12,7 @@
 卡酷动画,http://222.214.208.34:59901/tsfile/live/0131_1.m3u8?key=txiptv
 优漫卡通,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8?key=txiptv
 金鹰卡通2,http://222.214.208.34:59901/tsfile/live/0133_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
@@ -132,12 +132,7 @@ CCTV-17 高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/c
 重庆新农村高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 重庆社会与法,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
 重庆移动,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
-重庆汽摩,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
-家有购物,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
 CCTV风云剧场,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
-书画,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
-摄影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
-车迷频道,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
 SiTV都市剧场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
 SiTV魅力足球高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 SiTV动漫秀场高清,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
@@ -783,12 +778,12 @@ CRT娱乐,http://175.30.226.24:10086/rtp/239.37.0.97:5540
 
 CHC高清电影,http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/81.ts
+彩虹,#genera#
+彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/66.ts
 称呼,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
 潘多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
 惊怡,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
-松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
+松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/188.ts
 松视2台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
 松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/90.ts
 
