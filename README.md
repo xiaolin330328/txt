@@ -1,9 +1,5 @@
 我1
 
-广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887385.m3u8
-whttp://124.116.183.146:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://113.25.252.226:9901/tsfile/live/0125_1.m3u8
-广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
 炫动卡通,http://222.214.208.34:59901/tsfile/live/0121_1.m3u8?key=txiptv
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
 11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
@@ -24,23 +20,7 @@ whttp://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 苏州文化,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州电影,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-【山东】济南联通
-济南新闻综合,http://home.yinjunsheng.top:8888/udp/239.253.242.254:8000
-济南少儿,http://home.yinjunsheng.top:8888/udp/239.253.242.252:8000
-济南生活,http://home.yinjunsheng.top:8888/udp/239.253.242.251:8000
-济南娱乐,http://home.yinjunsheng.top:8888/udp/239.253.242.250:8000
-济南文旅体育,http://home.yinjunsheng.top:8888/udp/239.253.242.249:8000
-济南都市,http://home.yinjunsheng.top:8888/udp/239.253.242.248:8000
-济南鲁中,http://home.yinjunsheng.top:8888/udp/239.253.242.244:8000
-济南教育,http://home.yinjunsheng.top:8888/udp/239.253.242.246:8000
-平阴综合,http://home.yinjunsheng.top:8888/udp/239.253.242.247:8000
-济阳综合,http://home.yinjunsheng.top:8888/udp/239.253.242.245:8000
-长清综合,http://home.yinjunsheng.top:8888/udp/239.253.242.242:8000
-章丘综合,http://home.yinjunsheng.top:8888/udp/239.253.242.241:8000
-商河综合,http://home.yinjunsheng.top:8888/udp/239.253.242.240:8000
-山东卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.230:8000
-深圳卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.261:8000
-吉林卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.146:8000
+
 
 湖南爱晚,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
 湖南电视剧,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
