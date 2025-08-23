@@ -42,6 +42,12 @@
 Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
 Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
 四级,http://live.urren.net:80/live/8c4c749c1fe5192f68b7e59f90ee8470.flv
+e彩虹,http://live.urren.net:80/live/c69acb0a597f5b040f6f4560ea566271.flv
+k,http://live.urren.net:80/live/b59eb95dcf20bc5ec5ced177ecbc6f2a.flv
+彩虹电影,http://live.urren.net:80/live/e12c7b8012b1707385ed750415d03bf3.flv
+潘多拉,http://live.urren.net:80/live/cd7c97d7dedf91ca49c8e5d719273868.flv
+惊艳台,http://live.urren.net:80/live/97b0ab3bcd522ccac6b709c49c1ebdff.flv
+松视1,http://live.urren.net:80/live/718e91fe50310cb267b21248def8a772.flv
 极限,http://live.urren.net:80/live/ca992f0f5fb2b7c99a823177308bd3b4.flv
 happy,http://live.urren.net:80/live/1cb427581f3c8587bd1b9cf83ba27010.flv
 香蕉,http://live.urren.net:80/live/6ce91366a71c01c7c8e2c41e51a8590f.flv
