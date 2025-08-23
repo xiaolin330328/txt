@@ -1,4 +1,7 @@
 我1
+whttp://124.116.183.146:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://113.25.252.226:9901/tsfile/live/0125_1.m3u8
+广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
 炫动卡通,http://222.214.208.34:59901/tsfile/live/0121_1.m3u8?key=txiptv
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
 11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
