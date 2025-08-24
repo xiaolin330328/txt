@@ -1,6 +1,6 @@
 我1
 
-炫动卡通,http://222.214.208.34:59901/tsfile/live/0121_1.m3u8?key=txiptv
+炫动卡通,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8?key=txiptv
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
 11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
 北京卫视,http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv
@@ -12,7 +12,7 @@
 新闻频道,http://222.214.208.34:59901/tsfile/live/1003_1.m3u8?key=txiptv
 山东卫视,http://222.214.208.34:59901/tsfile/live/0131_1.m3u8?key=txiptv
 湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8?key=txiptv
-金鹰卡通2,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv
+江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv
 重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8?key=txiptv
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -29,16 +29,7 @@
 龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
 Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
 Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
-极限,http://live.urren.net:80/live/dfeeb0edbc02da18770561d3c6c0ca18.flv
-happy,http://live.urren.net:80/live/b54b093def80829439323b362dbac8eb.flv
-香蕉,http://live.urren.net:80/live/127393573f59cb88c39bc4fdc9a9a21a.flv
-惊艳,http://live.urren.net:80/live/50e1259b8ee187b23aa717369b5c3483.flv
-潘朵拉,http://live.urren.net:80/live/be2b93cae4d08dfc3e83ed4add2f95be.flv
-彩虹电影,http://live.urren.net:80/live/3d6ba19de17d39adff8685e354801b0f.flv
-K频道,http://live.urren.net:80/live/c7d4e3a0572522cff85164d72fe85d9a.flv
-E频道,http://live.urren.net:80/live/c69febbf6ec3495cb2c076a7dc74a958.flv
-松视3,http://live.urren.net:80/live/7d1235cbbf9eac747ab9e65ccd479c5d.flv
-松视1,http://live.urren.net:80/live/4dfabecc872ba839f0e8200eb3b8e55f.flv
+
 
 o11v4字幕测试：
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
