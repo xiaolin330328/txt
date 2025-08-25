@@ -1,6 +1,5 @@
 我1一
 山东卫视,http://124.116.183.146:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视,http://113.233.143.26:3160/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视,http://113.233.143.26:3160/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.233.143.26:3160/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8?key=txiptv
