@@ -4,7 +4,6 @@
 湖南卫视,http://113.233.143.26:3160/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8?key=txiptv
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv
-11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
 北京卫视,http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv
 天津卫视,http://222.214.208.34:59901/tsfile/live/0135_1.m3u8?key=txiptv
 四川卫视,http://222.214.208.34:59901/tsfile/live/0017_1.m3u8?key=txiptv
@@ -17,7 +16,6 @@
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv
 重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv
 四川7,http://222.214.208.34:59901/tsfile/live/1006_1.m3u8?key=txiptv
-
 北京科技,http://222.214.208.34:59901/tsfile/live/1007_1.m3u8?key=txiptv
 BESTV,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv
 海南卫视,http://222.214.208.34:59901/tsfile/live/0114_1.m3u8?key=txiptv
@@ -25,45 +23,22 @@ BESTV,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv
 浙江卫视,http://222.214.208.34:59901/tsfile/live/0124_1.m3u8?key=txiptv
 深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8?key=txiptv
 江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0129_1.m3u8?key=txiptv
 安徽卫视,http://222.214.208.34:59901/tsfile/live/0130_1.m3u8?key=txiptv
-道,http://222.214.208.34:59901/tsfile/live/0133_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0134_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0136_1.m3u8?key=txiptv
-东南卫视,http://222.214.208.34:59901/tsfile/live/0137_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0139_1.m3u8?key=txiptv
-电影,http://222.214.208.34:59901/tsfile/live/0140_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0141_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0143_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0144_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0145_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0146_1.m3u8?key=txiptv
-卫视,http://222.214.208.34:59901/tsfile/live/0147_1.m3u8?key=txiptv
-文艺,http://222.214.208.34:59901/tsfile/live//0148_1.m3u8?key=txiptv
-四川经济,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv
-文化旅游,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8?key=txiptv
-新闻频道,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8?key=txiptv
-山东卫视,http://222.214.208.34:59901/tsfile/live/0004_1.m3u8?key=txiptv
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0005_1.m3u8?key=txiptv
-江西卫视,http://222.214.208.34:59901/tsfile/live/0006_1.m3u8?key=txiptv
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8?key=txiptv
-峨眉电影,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8?key=txiptv
-贵州卫视,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8?key=txiptv
-广东卫视,http://222.214.208.34:59901/tsfile/live/0010_1.m3u8?key=txiptv
-11卫视,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
-北京卫视,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8?key=txiptv
-天津卫视,http://222.214.208.34:59901/tsfile/live/0013_1.m3u8?key=txiptv
-四川卫视,http://222.214.208.34:59901/tsfile/live/0014_1.m3u8?key=txiptv
-影视文艺,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8?key=txiptv
-四川经济,http://222.214.208.34:59901/tsfile/live/0149_1.m3u8?key=txiptv
-文化旅游,http://222.214.208.34:59901/tsfile/live/0016_1.m3u8?key=txiptv
-新闻频道,http://222.214.208.34:59901/tsfile/live/0150_1.m3u8?key=txiptv
-山东卫视,http://222.214.208.34:59901/tsfile/live/0151_1.m3u8?key=txiptv
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0152_1.m3u8?key=txiptv
-江西卫视,http://222.214.208.34:59901/tsfile/live/0153_1.m3u8?key=txiptv
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0154_1.m3u8?key=txiptv
-峨眉电影,http://222.214.208.34:59901/tsfile/live/0155_1.m3u8?key=txiptv
-
+1,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txipt
+2,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8?key=txiptv
+3,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8?key=txiptv
+4,http://222.214.208.34:59901/tsfile/live/0004_1.m3u8?key=txiptv
+5,http://222.214.208.34:59901/tsfile/live/0005_1.m3u8?key=txiptv
+6,http://222.214.208.34:59901/tsfile/live/0006_1.m3u8?key=txiptv
+7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8?key=txiptv
+8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8?key=txiptv
+9,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8?key=txiptv
+10,http://222.214.208.34:59901/tsfile/live/0010_1.m3u8?key=txiptv
+11,http://222.214.208.34:59901/tsfile/live/0011_1.m3u8?key=txiptv
+12,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8?key=txiptv
+13,http://222.214.208.34:59901/tsfile/live/0013_1.m3u8?key=txiptv
+14,http://222.214.208.34:59901/tsfile/live/0014_1.m3u8?key=txiptv
+15,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8?key=txiptv
 
 苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
@@ -586,9 +561,9 @@ CCTV15,http://27.193.97.96:22222/rtp/239.253.254.16:8000
 
 山东少儿,http://27.193.97.96:22222/rtp/239.253.254.25:8000
 
-调试,http://27.193.97.96:22222/rtp/239.253.254.26:8000
+没,http://27.193.97.96:22222/rtp/239.253.254.26:8000
 
-http://27.193.97.96:22222/rtp/239.253.254.27:8000
+赞赞赞赞,http://27.193.97.96:22222/rtp/239.253.254.27:8000
 
 江苏卫视,http://27.193.97.96:22222/rtp/239.253.254.28:8000
 
@@ -600,7 +575,7 @@ http://27.193.97.96:22222/rtp/239.253.254.27:8000
 
 东方卫视,http://27.193.97.96:22222/rtp/239.253.254.32:8000
 
-qwer,http://27.193.97.96:22222/rtp/239.253.254.33:8000
+没r,http://27.193.97.96:22222/rtp/239.253.254.33:8000
 
 CCTV13,http://27.193.97.96:22222/rtp/239.253.254.34:8000
 
