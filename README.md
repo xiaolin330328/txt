@@ -26,20 +26,20 @@ BESTV,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv
 深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8?key=txiptv
 江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8?key=txiptv
 卫视,http://222.214.208.34:59901/tsfile/live/0129_1.m3u8?key=txiptv
-文化旅游,http://222.214.208.34:59901/tsfile/live/0130_1.m3u8?key=txiptv
-新闻频道,http://222.214.208.34:59901/tsfile/live/0133_1.m3u8?key=txiptv
-山东卫视,http://222.214.208.34:59901/tsfile/live/0134_1.m3u8?key=txiptv
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0136_1.m3u8?key=txiptv
-江西卫视,http://222.214.208.34:59901/tsfile/live/0137_1.m3u8?key=txiptv
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0139_1.m3u8?key=txiptv
-峨眉电影,http://222.214.208.34:59901/tsfile/live/0140_1.m3u8?key=txiptv
-贵州卫视,http://222.214.208.34:59901/tsfile/live/0141_1.m3u8?key=txiptv
-广东卫视,http://222.214.208.34:59901/tsfile/live/0143_1.m3u8?key=txiptv
-浙江卫视,http://222.214.208.34:59901/tsfile/live/0144_1.m3u8?key=txiptv
-北京卫视,http://222.214.208.34:59901/tsfile/live/0145_1.m3u8?key=txiptv
-天津卫视,http://222.214.208.34:59901/tsfile/live/0146_1.m3u8?key=txiptv
-四川卫视,http://222.214.208.34:59901/tsfile/live/0147_1.m3u8?key=txiptv
-影视文艺,http://222.214.208.34:59901/tsfile/live//0148_1.m3u8?key=txiptv
+安徽卫视,http://222.214.208.34:59901/tsfile/live/0130_1.m3u8?key=txiptv
+道,http://222.214.208.34:59901/tsfile/live/0133_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0134_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0136_1.m3u8?key=txiptv
+东南卫视,http://222.214.208.34:59901/tsfile/live/0137_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0139_1.m3u8?key=txiptv
+电影,http://222.214.208.34:59901/tsfile/live/0140_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0141_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0143_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0144_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0145_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0146_1.m3u8?key=txiptv
+卫视,http://222.214.208.34:59901/tsfile/live/0147_1.m3u8?key=txiptv
+文艺,http://222.214.208.34:59901/tsfile/live//0148_1.m3u8?key=txiptv
 四川经济,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv
 文化旅游,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8?key=txiptv
 新闻频道,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -72,9 +72,6 @@ BESTV,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv
 苏州生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 
-湖南爱晚,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A&t=1755401429&token=bdc4afd63ca999f6c73df080cb4d83b6
-湖南电视剧,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7&t=1755401429&token=6f2aecbc122408365cb5483028455824
-湖南都市,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82&t=1755401429&token=09565cec19832997d75ec17112d3d79e
 有效期：57天
 龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
 Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
