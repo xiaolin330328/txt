@@ -1086,6 +1086,7 @@ Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 
 6月100天【柬埔寨】柬埔寨酒店源,#genre#
+卫视,http://183.161.57.99:55555/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 【柬埔寨精品娱乐】,http://103.121.188.31:9901/tsfile/live/1047_1.m3u8
 法国TV5信息,http://103.121.188.31:9901/tsfile/live/1044_1.m3u8
 CNA高清,http://103.121.188.31:9901/tsfile/live/1043_1.m3u8
