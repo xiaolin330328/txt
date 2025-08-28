@@ -483,7 +483,6 @@ CGTN[768*576],https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 
-法治天地https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
 娓告垙椋庝簯[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 閲戦拱鍗￠€歔1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
@@ -1086,7 +1085,7 @@ Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 
 6月100天【柬埔寨】柬埔寨酒店源,#genre#
-卫视,http://183.161.57.99:55555/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视,http://183.161.57.97:55555/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 【柬埔寨精品娱乐】,http://103.121.188.31:9901/tsfile/live/1047_1.m3u8
 法国TV5信息,http://103.121.188.31:9901/tsfile/live/1044_1.m3u8
 CNA高清,http://103.121.188.31:9901/tsfile/live/1043_1.m3u8
