@@ -1,4 +1,15 @@
 我1
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+河北经济,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=ed7e9d04b0cc72f270cdd56350b1a9c1
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=7e9e69c66cacfd4291006783ecf1fca7
+河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=61a6c7673fbb4863d132d1fda0378f5d
+河北影视,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=ac56ac8fece81817d4ed1faa0bfd5d14
+河北文旅,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=14113489b80124bfdeec2ec6298cc8f5
+河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=f3e85396df854219b4c44bbf8e22b15c
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 山东济南电信的源，不知道是否能看，没测试过，群主可以找人测试一下，能看的话加到软件里完善软件6
 广东卫视4K超高清,http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
 深圳卫视4K超高清,http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
