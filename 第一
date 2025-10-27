@@ -1,4 +1,4 @@
-http://106.53.99.30/tv/api.php?id=hnws4k
+湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
 
 
 CCTV-01,http://tvtj.jxwltx.com:8003/cctv1.m3u8
@@ -34,10 +34,12 @@ CCTV-15,http://tvtj.jxwltx.com:8003/cctv15.m3u8
 CCTV-16,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
 
 CCTV-17,http://tvtj.jxwltx.com:8003/cctv17.m3u8
-
+海峡卫视,http://tvtj.jxwltx.com:8003/hxws.m3u8
 江苏卫视,http://tvtj.jxwltx.com:8003/jsws.m3u8
-北京卫视,http://b.tvbox6.icu/php/beijing/bjzb.php?id=bjws
+东南卫视,http://tvtj.jxwltx.com:8003/dnws.m3u8
 
+北京卫视,http://b.tvbox6.icu/php/beijing/bjzb.php?id=bjws
+浙江卫视,http://b.tvbox6.icu/php/beijing/bjzb.php?id=zjws
 北京文艺,http://b.tvbox6.icu/php/beijing/bjzb.php?id=bjwy
 
 北京纪实科教,http://b.tvbox6.icu/php/beijing/bjzb.php?id=bjjs
