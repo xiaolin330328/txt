@@ -1,13 +1,13 @@
 
-CCTV1,http://m.061899.xyz/mg/cctv1
-CCTV2,http://m.061899.xyz/mg/cctv2
-CCTV3,http://m.061899.xyz/mg/cctv3
-CCTV4,http://m.061899.xyz/mg/cctv4
-CCTV5,http://m.061899.xyz/mg/cctv5
-CCTV5+,http://m.061899.xyz/mg/cctv5p
-CCTV6,http://m.061899.xyz/mg/cctv6
+CCTV1,http://go.061899.xyz/mg/cctv1
+CCTV2,http://go.061899.xyz/mg/cctv2
+CCTV3,http://go.061899.xyz/mg/cctv3
+CCTV4,http://go.061899.xyz/mg/cctv4
+CCTV5,http://go.061899.xyz/mg/cctv5
+CCTV5+,http:/go/m.061899.xyz/mg/cctv5p
+CCTV6,http://go.061899.xyz/mg/cctv6
 CCTV7,http://m.061899.xyz/mg/cctv7
-CCTV8,http://m.061899.xyz/mg/cctv8
+CCTV8,http://go.061899.xyz/mg/cctv8
 CCTV9,http://m.061899.xyz/mg/cctv9
 CCTV10,http://m.061899.xyz/mg/cctv10
 CCTV11,http://m.061899.xyz/mg/cctv11
@@ -17,14 +17,14 @@ CCTV14,http://m.061899.xyz/mg/cctv14
 CCTV15,http://m.061899.xyz/mg/cctv15
 CCTV16,http://m.061899.xyz/mg/cctv16
 CCTV17,http://m.061899.xyz/mg/cctv17
-cctv美洲,http://m.061899.xyz/mg/cctv4m
-cctv欧洲,http://m.061899.xyz/mg/cctv4o
-CETV-01,http://m.061899.xyz/mg/cetv1
-CETV-02,http://m.061899.xyz/mg/cetv2
-CETV-04,http://m.061899.xyz/mg/cetv4
+cctv美洲,http://go.061899.xyz/mg/cctv4m
+cctv欧洲,http://go.061899.xyz/mg/cctv4o
+CETV-01,http://go.061899.xyz/mg/cetv1
+CETV-02,http://go.061899.xyz/mg/cetv2
+CETV-04,http://go.061899.xyz/mg/cetv4
 
 北京卫视,http://m.061899.xyz/mg/bjws
-东方卫视,http://m.061899.xyz/mg/dfws
+东方卫视,http://go.061899.xyz/mg/dfws
 浙江卫视,http://m.061899.xyz/mg/zjws
 江苏卫视,http://m.061899.xyz/mg/jsws
 湖南卫视,http://m.061899.xyz/mg/hunws
