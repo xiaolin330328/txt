@@ -1,22 +1,8 @@
 泰顺电视,http://tv.sohu.blog/proxy/zjwzts.php
- 北京,rtp://239.3.1.22:8001
-北京,rtp://239.3.1.121:8000
-ws,http://111.206.133.114:8080/udp/239.3.1.22:8001
- tf,http://111.206.133.114:8080/udp/239.3.0.100:5140
-es,http://111.206.133.114:8080/udp/239.3.0.101:5140
- yy,http://223.72.47.182:4022/rtp/228.1.1.123:8001
-
-
-
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225623/1.m3u8?fmt=ts2hls
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225830/1.m3u8?fmt=ts2hls
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225652/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225532/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225745/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225636/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225638/1.m3u8?fmt=ts2hls
-长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
 CCTV1,http://go.061899.xyz/mg/cctv1
 CCTV2,http://go.061899.xyz/mg/cctv2
 CCTV3,http://go.061899.xyz/mg/cctv3
