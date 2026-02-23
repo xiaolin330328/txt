@@ -1,4 +1,25 @@
+泰顺电视,http://tv.sohu.blog/proxy/zjwzcn.php
+,http://tv.sohu.blog/proxy/zjwzra.php
+,http://tv.sohu.blog/proxy/zjwzyj.php
+,http://tv.sohu.blog/proxy/zjwzdt.php
 
+ ,https://live.wenzhou.gov.cn/channel/wznews.m3u8
+ ,https://live.wenzhou.gov.cn/channel/lucheng.m3u8
+ ,https://live.wenzhou.gov.cn/channel/longwan.m3u8
+ ,https://live.wenzhou.gov.cn/channel/ouhai.m3u8
+ ,https://live.wenzhou.gov.cn/channel/dongtou.m3u8
+ ,https://live.wenzhou.gov.cn/channel/yueqing.m3u8
+ ,https://live.wenzhou.gov.cn/channel/ruian.m3u8
+ ,https://live.wenzhou.gov.cn/channel/yongjia.m3u8
+ #EXTINF:-1 tvg-name="文成新闻综合" group-title="浙江·温州",文成新闻综合 高清
+ https://live.wenzhou.gov.cn/channel/wencheng.m3u8
+ #EXTINF:-1 tvg-name="平阳新闻综合" group-title="浙江·温州",平阳新闻综合 高清
+ https://live.wenzhou.gov.cn/channel/pingyang.m3u8
+ #EXTINF:-1 tvg-name="泰顺新闻综合" group-title="浙江·温州",泰顺新闻综合 高清
+ https://live.wenzhou.gov.cn/channel/taishun.m3u8
+ #EXTINF:-1 tvg-name="苍南新闻综合" group-title="浙江·温州",苍南新闻综合 高清
+ https://live.wenzhou.gov.cn/channel/cangnan.m3u8
+ #EXTINF:-1 tvg-name="龙港新闻综合" group-title="浙江·温州",龙港新闻综合 高清
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/1.m3u8?fmt=ts2hls
 CCTV1,http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/1.m3u8?fmt=ts2hls
