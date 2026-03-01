@@ -1166,20 +1166,6 @@ CCTV15,http://lijiahe.cn:8887/udp/239.49.1.15:6000
 	
 
 
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 🔞台湾,#genre#
 松視3,http://www.xymm.de5.net/live/1.index.m3u8
 松视3台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
@@ -1260,15 +1246,25 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4kg
 
 电影频道ip4,#genre#
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+苏州新闻,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
