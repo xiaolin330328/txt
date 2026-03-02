@@ -16,23 +16,23 @@ cctv5,http://154.12.36.187:656/index.php?token=7777&id=cctv5
 江苏卫视,http://154.12.36.187:656/index.php?token=7777&id=jsws
 cctv6,http://154.12.36.187:656/index.php?token=7777&id=cctv6
 吉林卫视,http://154.12.36.187:656/index.php?token=7777&id=jlws
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=cctv1
-江西卫视,http://154.12.36.187:656/index.php?token=7777&id=bjws
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=cctv13
+cctv1,http://154.12.36.187:656/index.php?token=7777&id=cctv1
+卫视,http://154.12.36.187:656/index.php?token=7777&id=bjws
+cctv13,http://154.12.36.187:656/index.php?token=7777&id=cctv13
 天津卫视,http://154.12.36.187:656/index.php?token=7777&id=tjws
 cctv8,http://154.12.36.187:656/index.php?token=7777&id=cctv8
 东方卫视,http://154.12.36.187:656/index.php?token=7777&id=dfws
 cctv4,http://154.12.36.187:656/index.php?token=7777&id=cctd4
-江西卫视,http://154.12.36.187:656/index.php?token=7777&id=hljws
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=lnws
-辽宁卫视,http://154.12.36.187:656/index.php?token=7777&id=hbws
-河北,http://154.12.36.187:656/index.php?token=7777&id=hubws
-江西卫视,http://154.12.36.187:656/index.php?token=7777&id=hnws
+卫视,http://154.12.36.187:656/index.php?token=7777&id=hljws
+辽宁卫视,http://154.12.36.187:656/index.php?token=7777&id=lnws
+卫视,http://154.12.36.187:656/index.php?token=7777&id=hbws
+湖北卫视,http://154.12.36.187:656/index.php?token=7777&id=hubws
+兵团卫视,http://154.12.36.187:656/index.php?token=7777&id=btws
 湖南卫视,http://154.12.36.187:656/index.php?token=7777&id=hunws
 安徽卫视,http://154.12.36.187:656/index.php?token=7777&id=ahws
 山东卫视,http://154.12.36.187:656/index.php?token=7777&id=sdws
 浙江卫视,http://154.12.36.187:656/index.php?token=7777&id=zjws
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=dnws
+农林卫视,http://154.12.36.187:656/index.php?token=7777&id=nlws
 厦门卫视,http://154.12.36.187:656/index.php?token=7777&id=xmws
 广东卫视,http://154.12.36.187:656/index.php?token=7777&id=gdws
 深圳卫视,http://154.12.36.187:656/index.php?token=7777&id=szws
@@ -46,11 +46,11 @@ cctv5,http://154.12.36.187:656/index.php?token=7777&id=dnws
 青海卫视,http://154.12.36.187:656/index.php?token=7777&id=qhws
 三沙卫视,http://154.12.36.187:656/index.php?token=7777&id=ssws
 宁夏卫视,http://154.12.36.187:656/index.php?token=7777&id=nxws
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=ybws
-江西卫视,http://154.12.36.187:656/index.php?token=7777&id=hinws
+延边卫视,http://154.12.36.187:656/index.php?token=7777&id=ybws
+没卫视,http://154.12.36.187:656/index.php?token=7777&id=hinws
 重庆,http://154.12.36.187:656/index.php?token=7777&id=cqws
-江西卫视,http://154.12.36.187:656/index.php?token=7777&id=fhxw
-cctv5,http://154.12.36.187:656/index.php?token=7777&id=fct
+陕西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxrws
+山西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
 
 
 
