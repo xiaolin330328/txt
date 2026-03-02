@@ -49,12 +49,11 @@ cctv4,http://154.12.36.187:656/index.php?token=7777&id=cctd4
 延边卫视,http://154.12.36.187:656/index.php?token=7777&id=ybws
 没卫视,http://154.12.36.187:656/index.php?token=7777&id=hinws
 重庆,http://154.12.36.187:656/index.php?token=7777&id=cqws
-陕西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
 山西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
-天津卫视，https://live-pc.xuexi.cn/merged/tjtv_merge_qhd.m3u8?auth_key=1772435570-0-17083432466806794-601b16e42b87fb6026f50db654d9da6a&yid=17083432466806794
-山西卫视，http://154.12.36.187:656/index.php?token=7777&id=sxws
-农林卫视，http://154.12.36.187:656/index.php?token=7777&id=sxws
-农林卫视，http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=nlws
+天津卫视,https://live-pc.xuexi.cn/merged/tjtv_merge_qhd.m3u8?auth_key=1772435570-0-17083432466806794-601b16e42b87fb6026f50db654d9da6a&yid=17083432466806794
+山西卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
+卫视,http://154.12.36.187:656/index.php?token=7777&id=sxws
+农林卫视,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=nlws
 ,http://180.76.145.203:1112/migu720p.php?id=738910838
 ,http://115.190.123.159:1112/738910838
 
